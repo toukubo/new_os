@@ -1,0 +1,9 @@
+Basecamp functions Tour
+
+The second task in integration orientation template we can find a task for Basecamp and see all the functions of the Basecamp. We need this because Basecamp is easy to use but it has many features & functions and *our use of Basecamp quite legit and we have a tons of rules using all the features of Basecamp* its normal so we need to know all the Basecamp features and the concepts of Basecamp.
+
+*First at the list we must see the How the milestones, To dos and messages are edited.* Like to do lists can assign the milestones so that all the task in the task list/to do list must be completed/finished by what date and this date is decided by Milestones. And by connecting the To do list to milestone we can be responsible also milestones has concept of responsibility and assigning the responsible person to milestone then all the tasks in task list which is connected 
+to the milestone must be completed by the date of the milestone.
+*(In short and simple words, a milestone is the deadline within which you should be able to complete the task).* All these tasks must be finished and status must be covered in the responsibility of the person who is responsible for the task. So this concept using all the features like connection of milestones to To do lists or deadline date of the each task. *Avoiding the tasks which are not assigned to anyone by doing this we can work in a perfect tree and keep all the tasks done in time and keep priorities.*
+*So we need you guys to learn all the small features of Basecamp and in last perspective how to use Basecamp like to dos for task and messages for communication.* If you know the details/small features of Basecamp then we can work on other aspects and we can do work in legit way.
+In the letter in the task of the following steps we are talking about the conventions of our team which is related to Basecamp for this task please see all the features given by the Basecamp HQ.
