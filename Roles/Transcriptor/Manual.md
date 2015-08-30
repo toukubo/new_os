@@ -34,9 +34,7 @@ So basically you don’t need to transcribe to Japanese this and what you need t
 
 ## 3. transcriptions, and put it to Transcribed Inbox
 Transcribed Inbox here means, discussions post.
-http://cl.ly/image/021h2f3K1Q3R
+http://quick.as/qy7xub30p
 
-title the rough content summery, + original filename to the text.
+the title should be named : the rough content summery + original filename to the text.
 
-
-Ok ahÖthis is a note for the transcription thing and…when you capture ìto doî for the transcripted content, please be careful you have a day must be completed list, transcribed inbox to the list is already there. Once you have completed a to-do list, or a list in the to-do list itís hidden, not displayed in the to-do list parts and itís in the completed to dos part you can find the completed to do list of transcribed inbox as indicated in the image below. And open the completed to dos and make another to-do there so there avoiding the duplicated name transcribed in the Inbox to the list could be made everytime you make the to-do list so this is the notes, additional notes about transcribed Inbox operations.
