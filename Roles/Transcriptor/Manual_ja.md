@@ -28,6 +28,7 @@ https://basecamp.com/2779900/projects/8538480/attachments
 
 
 3. 日常業務2 仕分け（できれば！）
+3. 0. [こちらも見る](https://github.com/toukubo/new_os/blob/master/Roles/Transcriptor/OrganizeManual.js.md)
 3. 1. プロジェクトをdictionaryと、クライアント名、会話内容から判断。
 3. 1. 1. すでにあるプロジェクトに該当する場合
 3. 1. 1. 1. BCの該当プロジェクトの「Message」にREQUEST: から始まる文字列でざっとタイトルをつけて、ポスト。
