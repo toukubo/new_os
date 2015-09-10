@@ -13,31 +13,67 @@ There are many usage of the transcribed texts and in some cases it's intended to
 voice memo inbox : 
 https://basecamp.com/2980772/projects/9828580/attachments
 
-### 1.1.finding undone tasks
+### 1.1. find  undone tasks
 Audio voice memo is uploaded in Basecamp Project Inbox using audio recording from mobile device 
  Often you will receive  notification of new uploaded voice memo from global inbox (Please note: not all the time you will be notified in some cases because we are using mobile apps )
 ** There were 2 types of DV's uploaded. English and Japanese version **
 
+## 2.  Listen and transcripting
+### 3. 1. Listend to the audio memos.
+and transcribe as per instruction. It is important to transcribe the audio memo as quick as you can.
+
+### 3. 2.  Editing the Transcript
+
+Transcribing an audio memo is iterative process. Once the initial account is compiled, the transcript should be reviewed and clarified.
+It is important to take the task of checking seriously. When done well, checking requires about the same time, effort, and attention as does transcribing in the first place.
+ 
+Editing may be considered as a phased process, such as the one described below.
+First Pass
+This first pass through the transcript is done while listening to the audio version and
+correcting the document. This pass includes:
+• catching and fixing transcription errors—wrong or missing words and phrases
+• trying to identify inaudible passages
+• making basic spelling and punctuation corrections
+Second Pass
+This pass corrects names and facts and makes global fixes wherever possible. It includes:
+• correcting names in the transcript, noting the whole name at first appearance
+• global fixes of capitalization, formatting, removing extra spaces and the like
+• making a list of inaudible passages and name queries
+Third Pass
+This is the creative editing pass. Free from worry about facts, the editor can look at the
+bigger picture:
+• ensuring flow
+• eliminating repetition
+• cutting stock phrases like "I think," "kind of," and "you know" and speech quirks
+particular to the speaker
+• fixing remaining grammar, spelling, and punctuation errors
+• breaking up run-on sentences and too-long paragraphs
+• making small changes for clarity
+• smoothing syntax
+ 
+ 
+### 3.3. Updating/Revisions
+
+            In any case, when the time comes for turning in the revision simply make proper correction of errors spelling, grammar and construction of the sentence. In addition, you will need to bring the whole transcription up to a consistently high level of delicacy.
 
 
-## 2. Labeling ( tag ) Operaations on it
+### 3.4.  Format
+
+An important part of transcribing is to use a consistent format for presenting including collections of conventions and naming your transcription and audio files.  Date of Audio memo uploaded, DV's reference number, typeface should be Times New Roman, 12 point black. Use EVERNOTE to share the transcribed audio.
+
+
+## 4. Labeling ( tag ) Operaations on it
 //@todo DV inserted here
-status management for the transcriptions.
-
-3-5 transcription status, labels, rules and it means that you should see
-### status labels
-#### the first one is “on transcriptions” tag  
+we use labeling feature of basecamp, status management for the transcriptions. transcription status, labels, rules and it means that you should see
+### 4.1. status labels
+#### 4.1.1 “on transcriptions” tag  
 label and it means you… that when you come to the work then you have to label if you find which you can do the transcription then you have to name it ah… when you start transcription you have to label it with “on transcription” and by this you can see which files are available for you and if it’s shows “on transcription” is locked to someone, someone is working on that already so it’s not for you and you can find other ones.   
-
-#### 2.The second one for status label is the status label, is that done…d-o-n-e, done,  
-  
+#### 4.1.2.The second one for status label is the status label, is that done…d-o-n-e, done,  
 it means it’s done, transcription is done and you have to label it after you complete the transcription on that. And this is the basic one.   
-
-### the language labels, 
+### 4.2. the language labels, 
 labels: English and Japanese.  
 because you, I think, are English speakers and you guys are coming to the sites and if the transcription or voice memos are in Japanese, then you have to label it “Japanese” and if it’s English then label it “English.” I know yeah, you should. And it means that we have some Japanese transcriptors too and they come to the site and they try to find the ones they need to transcribe and then it’s done I mean simply they can find the Japanese ones only yeah. And also at their site they will name it “English,’ label it “English” like when it’s uploaded and they listen to it and it’s English so label it “English” so you can find the English version only by filtering, easier.   
-  
-### needs ( to be translation ) handling labels
+ ### 4.3. needs ( to be translation ) handling labels
 labels:“to be transcribed” and “no transcription”
 you need to label this one.they work as  couple.  
 Sometime some of the transcriptions on head apart, over the voice memos, it tells “you don’t need”. or it’s says “you don’t need to transcribe”. 
@@ -45,10 +81,7 @@ And this one should be operated, handled by admins not transcriptors. And no nee
 Yeah usually they are tasks, assign to someone in BC, it’s kinda urgent ones, can’t wait to be transcribed then that’s marked so. So that’s the rules.
 So basically you don’t need to transcribe to Japanese this and what you need to do is… to be transcribed no labels ones and English ones and not on transcriptions things, no “on transcription” things so that’s for you.
 
-
-
-
-## 3. transcriptions, and put it to Transcribed Inbox
+## 5. transcriptions, and put it to Transcribed Inbox
 Transcribed Inbox here means, discussions post.
 http://quick.as/qy7xub30p
 
