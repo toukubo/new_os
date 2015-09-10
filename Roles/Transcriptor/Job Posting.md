@@ -11,12 +11,9 @@ total work hours per day, 1-2 hours. and
 we use Basecamp. you see the files posted in basecamp. in the inbox you got the mp3 / aac files. it could be played in browser. you listen to them. and transcript it in the the "discussion" part. 
 #### "crowd"" way of workflow.
 team work is there. some transcriptors are working same position as you. to coordinate data to transcript and work, check the manual ( url pasted above ) and see the status part. it is telling that you have to follow the rules of labeling, and status of the task are kept. and you must be the member of this team so that you can complete the "inbox zero" on the voice memo files.
-
 ### Get paid 
 this one is hourly rate base. and role work. longer term. 
 do not bid fixed bid base.
-
-
 ### Engagement:
 - you have to check our project management system, and emails for the tasks for you.
 - must be checked daily, at least 2 times a day, self started.
