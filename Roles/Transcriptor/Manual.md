@@ -1,8 +1,24 @@
-
 # transription manual ver 2015
+
+This manual gives a broad overview of transcribing procedures. It focuses on procedures, methods, and practical mechanisms that we will use to organize transcription files.
+
+In this approach, transcribing DV’s or audio memo entails two main tasks: Transcription and Translation.  You will transcribe a minute of spoken audio memo or messages.  Translation of Japanese text, in this case make a TO DO in translation list and assign the task to translator.
+
+Transcriptions are created by listening to the audio file and typing what you hear. Filler words, such as “uh,” “um,” and “ah” should not be included in the transcript. 
+
+There are many usage of the transcribed texts and in some cases it's intended to relay message and instructions to the internal people, team members, developers, or administrators the other purpose is we are making a documentation content. The goal is to capture the main points of the voice memo and make necessary execution.
+
+
 ## 1. see the Voice Memo Inbox*1.
 voice memo inbox : 
 https://basecamp.com/2980772/projects/9828580/attachments
+
+### 1.1.finding undone tasks
+Audio voice memo is uploaded in Basecamp Project Inbox using audio recording from mobile device 
+ Often you will receive  notification of new uploaded voice memo from global inbox (Please note: not all the time you will be notified in some cases because we are using mobile apps )
+** There were 2 types of DV's uploaded. English and Japanese version **
+
+
 
 ## 2. Labeling ( tag ) Operaations on it
 //@todo DV inserted here
