@@ -17,7 +17,7 @@ label and it means you… that when you come to the work then you have to label 
   
 it means it’s done, transcription is done and you have to label it after you complete the transcription on that. And this is the basic one.   
 
-### the language levels, 
+### the language labels, 
 labels: English and Japanese.  
 because you, I think, are English speakers and you guys are coming to the sites and if the transcription or voice memos are in Japanese, then you have to label it “Japanese” and if it’s English then label it “English.” I know yeah, you should. And it means that we have some Japanese transcriptors too and they come to the site and they try to find the ones they need to transcribe and then it’s done I mean simply they can find the Japanese ones only yeah. And also at their site they will name it “English,’ label it “English” like when it’s uploaded and they listen to it and it’s English so label it “English” so you can find the English version only by filtering, easier.   
   
