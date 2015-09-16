@@ -1,5 +1,7 @@
-1. ![login with new.exclamations@gmail.com  to workstack.me](http://cl.ly/image/0301462v3v0u/o)
-2. ![click config button](http://cl.ly/image/3z0K2A2j3z1H)
+1. login with new.exclamations@gmail.com  to workstack.me
+    http://cl.ly/image/0301462v3v0u/o)
+2. click config button
+  http://cl.ly/image/3z0K2A2j3z1H
 3. [in the config screen update linked account](!http://cl.ly/image/3z0K2A2j3z1H)
 4. [in the bc account list choose one by one( storytellers,secual,new_os,ancar ) ](!http://cl.ly/image/0l3P1I0e2E41)
 5. [click the “person icon”](!http://cl.ly/image/1I3h403B1x1v)
