@@ -1,22 +1,21 @@
-
-
+# this is the master workflow of our team. 
+## see the chart 
 [the chart](http://cl.ly/3M0M2Y0W2o0X0G1w120m)
 
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 OOOOOOOOOO                the Goal                 OOOOOOOOOOO
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
-- all the detailed Request must be kept trackable, MECE.
-- all the BC Conventions are kept.
-- as quick as possible. from input from client and answer to the client.
-- as small as possible, in terms of time cost, time.
-- automatic and systematic because we are proudly of the top programming and innovation firm.
-- In Cloudy way. CLOUD here means, all of us can do 90% of the tasks replaceable ( even Founders and CEO should be replacable ).
-- applicable to any kinds of request order.
+- all the Requests must be kept trackable, and MECE. Ubiqutous Capture.
+- all the BC Conventions are kept smoothly so that files found quick, no duplication, and searchable, and scheudles are clean. progress is fast, and Autonomy is there.
+- as quick as possible, The flow should run. From input from client, and answer to the client.
+- time. speed.
+- automatic and autonomy. 
+- Crowd/cloud way. a new os of making things happen.
 
 
+## List of Roles, and Role Accounts
 
-List of roles. 
 1. Admin
 2. Transcriptionist
 3. Hiring Manager
@@ -26,6 +25,7 @@ List of roles.
 7. Backend Developers
 8. Internal Directors
 9. Testers
+10. Sales
 
 
 
@@ -35,32 +35,29 @@ OOOOOOOOOOO               the Workflow          OOOOOOOOOOOOOO
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 ## SALES/DIRECTORS, Capturing Requests
-  - meeting with clients -> voice memos in dropvox or meeting log  text in evernote,capture into Event comment.
-  - inbound mails to sales -> forwarding, to Evernote asap-en/asap shared book
-  - inbound phone call -> voice memos in Dropvox.
-  - tasks from sales  -> voice memos in Dropvox.
+  - Meeting with clients -> voice memos in dropvox or meeting log  text in evernote,capture into Event comment.
+  - Inbound mails to sales -> forwarding, to Evernote asap-en/asap shared book
+  - Inbound phone call -> voice memos in Dropvox.
+  - Tasks from sales  -> voice memos in Dropvox.
 
-## Transcriptionists,and Translaters
+## Transcriptionists, and Translaters
 
-They do the incoming documents digitalized. The text and well formatted digitalized texts are objects, are important objects that we can treat. 
+They do the incoming documents digitalized and treatable.
+The text and well formatted digitalized texts are objects, are important objects that we can treat. 
 
-
-## Admins(aka OS) / Organize / Tasking
-- check evernote requests and keep inbox zero.
-- choose the Request Dropvox voice memos to be Transcribed / archived not translated, and Transcribe it into evenote asap-en/asap.
-- choose evernote messages to be Translated and make a todo and assign it to Translators group.
-- choose evernote messages that contains Requests from clients or Directors and make it a todo into proper project.  copy the contents into the comments . and archive(delete) the evernote messages from asap/asap-www.enclosing.net .assign the newly created todos to Internal Director, and move it to Taskings list of project.
-- pick the tasks reading through each of message in Taskings todo lists. and keep the Taskings todos zero. send it to him. if the due date is apparent to the task, send it .
-If you listen to a big message regarding a To-Do for anyone, you have to follow the following steps,
-- Listen and transcribe the complete message.
-- Make a to-do list in the respective project and give title.
--Add a very small (one sentence) detail in the to-do and open it.
-- Paste the complete task inside the comment box and not in the main to-do item. It will make fuss in the main page of Basecamp.
-- After writing the complete to-do in the comment box just assign it to the internal directors.
-- The internal directors will break the task and will assign it to the one who is responsible.
-
-### TRANSLATORS
+### Translaters
 - do translation which is assigned to Translators. after translations done, change responsible to Internal Director.
+
+### Transcriptionists
+- They make digital voice memos in the DV invox, to the text format. the contents given from client, row text, is called "Requests" in our team. 
+
+## Admins(aka OS) / Organize / Tasking, Workflow Objects in the Right Place, all the basecamp Objects's all the attributes should fullfilled. 
+
+This is the core role of our workflow. we have many people. and this helps things organized. 
+details are described in the Routine Projects's todo's comment part as the form of manuals.
+- transripted Request -> Organize -> Request Moved to the right project. 
+- Requests once set to the right projects -> Tasking -> Todos. ( no assignment 9 
+
 
 ### INTERNAL DIRECTORS / OS
 
@@ -87,7 +84,7 @@ If you listen to a big message regarding a To-Do for anyone, you have to follow 
 - check for the tasks done by executers, and give feedback and acknowledgments to the responsible ( INTERNAL DIRECTOR )
 
 
-### SALES
+### SALES ( delivery ) 
 - make progresses / result report email / formatted document in english. and assign for translators ( INTERNAL DIRECTOR )
 - Internal Directors write english texts.
 - send the reports. ( SALES )
