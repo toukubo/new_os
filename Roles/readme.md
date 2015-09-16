@@ -14,6 +14,22 @@ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 - In Cloudy way. CLOUD here means, all of us can do 90% of the tasks replaceable ( even Founders and CEO should be replacable ).
 - applicable to any kinds of request order.
 
+
+
+List of roles. 
+1. Admin
+2. Transcriptionist
+3. Hiring Manager
+4. Progress Manager
+5. Technical Management Officer
+6. Frontend Developers
+7. Backend Developers
+8. Internal Directors
+9. Testers
+
+
+
+
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 OOOOOOOOOOO               the Workflow          OOOOOOOOOOOOOO
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
@@ -24,7 +40,12 @@ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
   - inbound phone call -> voice memos in Dropvox.
   - tasks from sales  -> voice memos in Dropvox.
 
-## OS / Organize / Tasking
+## Transcriptionists,and Translaters
+
+They do the incoming documents digitalized. The text and well formatted digitalized texts are objects, are important objects that we can treat. 
+
+
+## Admins(aka OS) / Organize / Tasking
 - check evernote requests and keep inbox zero.
 - choose the Request Dropvox voice memos to be Transcribed / archived not translated, and Transcribe it into evenote asap-en/asap.
 - choose evernote messages to be Translated and make a todo and assign it to Translators group.
