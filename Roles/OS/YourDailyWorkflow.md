@@ -1,8 +1,9 @@
 # How to Perform Daily Admin Routine
-You have to act in two personality. 1. as you, and 2. as a role member ( role account ).
-We have the Account called "Admin Role" in basecamp. the todos assigned to it is team tasks. 
-also you have your own account. the todos assigned to you ( your accoutn ) is also for you.
-details are explained as below. 
+You have to action tasks on two accounts: 1.your account; 2. Admin Role
+We have the Account called "Admin Role" in basecamp. the to-dos assigned to it are tasked to Admin Team (that includes you). 
+You also have your own account. the to-dos assigned under your name needs your action as well.
+
+Details are explained below:
 
 ## Daily Administrative Routine is self-assigned
 
@@ -18,20 +19,26 @@ All those tickets assigned to this Admin Role are "open todos" (or to-do list), 
 If you see todos that are open, assign it to you
 
 ### Step 4
-Set Due date of the task be sure it should be on the same day where you conduct the Administrative routine
+Set Due date of the task. It should be on the same day that you conducted the Administrative routine
 
 ### Step 5
-Start the execution of the task
+Start the execution of the tasks
 
 ### Step 6
 After you are done for each task - mark it completed
 
 ## Then, your tasks.
-Plus to this Admin Role base tasks, you have your own todos assigned to you.
+After completing the Admin Role tasks, you can now do the tasks assigned to to you.
 
-## Priority ( order to do todos ) 
-basically you should check two pages . 
-Admin Roles todos page + your open todo pages. basecamp provide a pages to show the all the todos that is assgiend to a person. 
-And you should check yours, and Admin role's overdue tasks and today's task first. then go into the future dued tasks. 
+## Prioritize your TO-DOs
+1) You are required to check two pages in a Basecamp account:
+a. Admin Role Page
+      In Basecamp Account, Click Everyone tab, then choose Admin Role.In the Admin Role page, you will see the tickets/to-dos which are open. Follow Steps 1-6 as mentioned above.
+b. Your Page
+      In Basecamp Account, Click ME tab. In your page, you will see the tickets/to-dos which are open and awaiting your action.
+      
+2) Start with tickets/tasks/to-dos that are overdue, or needs action on the same day before moving on to the tasks that are not yet overdue
+
+3) You are required to check ALL Basecamp account you are invited in (New_OS, Secual, Ancar, Storyteller, etc) for to-dos assigned to Admin Role and to you.
 
 
