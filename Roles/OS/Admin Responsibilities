@@ -50,7 +50,7 @@ URL in the comment/discussion tab.
             Note: For multiple tickets, no need to make an event for each but simply make one event and name it "Tickets" 
             and then paste the URL of each tickets as comments. 
 
-6) Projects that are not inactive for the past 15 days (all to-dos are completed, no relevant current activity), may need to be
+6) Projects that are inactive for the past 15 days (all to-dos are completed, no relevant current activity), may need to be
 archived. Before archiving, post a discussion in the same project and request permission to the project creator if the project
 can be archived. Once the project creator responds, then you go to the bottom of the project, click Project Settings, then choose
 archive. (The find out who the project creator is, click the "see all updates" under Latest Project Updates section of the project).
