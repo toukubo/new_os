@@ -4,7 +4,8 @@ account instead of going through each project.
 
 Before creating an Event, Admin must have the following information:
 1) Milestone and to-dos
-![milestone-image](https://cloud.githubusercontent.com/assets/14292486/10051419/fa27e2f6-6229-11e5-93a9-2b41893cf53e.png)
+https://www.dropbox.com/home/Images%20for%20Manuals?preview=Milestone-Image.png
+
 2) Start Date (you can assume the start date is when the Milestone and to-do was posted)
 3) Due Date (if not indicated, you can assume a due date of 5-7 days from the start date)
 4) Assigned person for the milestone/to-do (if the milestone/to-do is not unassigned, assign it to the Internal Director first)
