@@ -11,6 +11,8 @@ Details are explained below:
 Open the Admin Role's role base todos page, in basecamp New OS
 Click this link 
 https://basecamp.com/2980772/people/12395816/outstanding_todos
+( to you who are in subrole, there is role accoun tasks for each of your role. ask your hiring manager for the pages of role account of your role ) .
+
 
 ### Step 2
 All those tickets assigned to this Admin Role are "open todos" (or to-do list), those are the tasks to execute on a daily bases. 
