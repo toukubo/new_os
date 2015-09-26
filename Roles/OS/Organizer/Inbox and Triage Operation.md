@@ -2,7 +2,11 @@
 
 Inbox is where we capture all todo’s or staffs first. Objects. 
 
-dependencies: inbox zero. getting things done, box, workflow description. 
+Dependencies: 
+all the concepts document should be read by this Organizer Role person.
+https://github.com/toukubo/new_os/tree/master/Concepts
+
+
 quoting from inbox zero lovers and conceptors.
  “We aimed at keeping the inbox empty — or almost empty — at all times.  According to Mann, the zero is not a reference to the number of messages in your inbox but “the amount of your brain that’s in your inbox.” The point is that ineffective system management negatively affects mental functioning and productivity. “
 
