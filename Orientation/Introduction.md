@@ -1,6 +1,6 @@
 
 # Introduction
-## This Projct ? 
+## This Project 
 This Manual is designed to help new workers, e.g. developers, designers, administrators familiarize themselves with the policies and procedures upon entering any projects.
 
 It is a must for each newly hired workers to read this manual to make themselves acquainted and be fully aware with the processes and conventions being used in the operation of each projects.
