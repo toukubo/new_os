@@ -1,6 +1,6 @@
 # How to Perform Daily Admin Routine
 You have to action tasks on two accounts: 1.your account; 2. Admin Role
-We have the Account called "Admin Role" in basecamp. the to-dos assigned to it are tasked to Admin Team (that includes you). 
+We have the Basecamp Account  called "Admin Role" ( if you are assigned to Sub Roles like Scheduler, Organizer, Assigner then those Role Account exists for each of the role )  in basecamp. the to-dos assigned to it are tasked to Admin Team (that includes you). 
 You also have your own account. the to-dos assigned under your name needs your action as well.
 
 Details are explained below:
