@@ -7,6 +7,18 @@ https://www.evernote.com/shard/s372/sh/82015439-baa4-4a53-aa59-020d0befa130…
 
 ### How to:
 
+
+1. open all the projects one by one. 
+2. see the Todo lists, 
+3. open the events and calendar to ( recommeding two windows to be opened to compare ) 
+4. compare the calendar events, and Todo list, and if there is one which is exists in only one of them ( milestones or todolist ) then make the other. ( if milestone exists but Todo list is not existing then make one Todo list with the same name as the milestone, and vice versa. ) 
+
+exceptions list:
+- for those Todo list has tag: #Pages #Tickets, no make milestones.
+- for those tasks named INBOX, no need to make milestones.
+
+
+## How to creaate a event.
 1. Go to project Calendar
 2. Click on any project from the Projects list
 3. Add a "New event"
