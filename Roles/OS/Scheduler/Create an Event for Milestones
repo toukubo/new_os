@@ -4,7 +4,7 @@ account instead of going through each project.
 
 Before creating an Event, Admin must have the following information:
 1) Milestone and to-dos
-![milestone-image](https://cloud.githubusercontent.com/assets/14292486/10051632/35598c5c-622b-11e5-8f13-9de024a504f2.png)
+https://www.dropbox.com/s/oq97dr3nxp864ns/Milestone-Image.png?dl=0?d1=1
 
 2) Start Date (you can assume the start date is when the Milestone and to-do was posted)
 3) Due Date (if not indicated, you can assume a due date of 5-7 days from the start date)
@@ -13,24 +13,24 @@ Before creating an Event, Admin must have the following information:
 
 Once you all have the information, you can now create an Event for that particular Milestone
 1)  Click the Events tab on a Project
-![step 1](https://cloud.githubusercontent.com/assets/14292486/10051354/be776f88-6229-11e5-9d69-4caa9621ed9f.png)
+https://www.dropbox.com/s/b0coj7d3ikeg4gy/Step%201.png?dl=0?d1=1
 
 2)  Click on a date (the start date) to create a New Event 
-![step 2](https://cloud.githubusercontent.com/assets/14292486/10051355/be92aa3c-6229-11e5-8880-f8e461f05d73.png)
+https://www.dropbox.com/s/76f9s8qs5tggoap/Step%202.png?dl=0?d1=1
 
 3)  In the subject of the event, insert the Milestone
     In the optional note, insert the URL link of the Milestone
     Under the When section, Click the "last multiple days or repeats"  and insert the start and the end date
     Include all the people assigned to the "Email to" section
-![step 3](https://cloud.githubusercontent.com/assets/14292486/10051356/be9cca44-6229-11e5-9d5f-012e268b6c2a.png)
+https://www.dropbox.com/s/l9t0757i0ud636p/Step%203.png?dl=0?d1=1
     
 4)  Save the changes. Re-click the event and go to the "discuss this event" section to go to the comment page
 
 5) Insert the URL link of the Milestone in the comment and click save
-<img width="1013" alt="step 5" src="https://cloud.githubusercontent.com/assets/14292486/10051373/cd757b42-6229-11e5-8c55-3315982f3441.png">
+https://www.dropbox.com/s/o8ms9j3065i599x/Step%205.png?dl=0?d1=1
 
 6) Go back to the Milestone and insert the URL link of the Event you created
-![step 6](https://cloud.githubusercontent.com/assets/14292486/10051357/bea0a0a6-6229-11e5-8824-4256a27bf966.png)
+https://www.dropbox.com/s/jlikcki5h84crzt/Step%206.png?dl=0?d1=1
 
 
 Rule of Thumb: You need to create Events for all Milestones in all projects found in all basecamp accounts
