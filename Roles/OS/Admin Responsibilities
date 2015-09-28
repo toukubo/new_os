@@ -2,78 +2,9 @@ Administrators have a vital role in the organization.
 Their main task is to keep all the projects in all the Basecamp (BC) accounts up-to-date and to ensure that the people involved 
 in the projects are engaged, and informed so that the projects can run smoothly and the deadlines are met.
 
-RULE OF THUMB: There are multiple basecamp accounts (new_os, secual, ancar, storyteller, etc). Under these basecamp accounts are
+RULE OF THUMB: 
+1. There are multiple basecamp accounts (new_os, secual, ancar, storyteller, etc). Under these basecamp accounts are
 multiple projects. Your admin duties are required in all the projects and basecamp accounts. You need to make sure you have access
 to all.
-
-ADMIN DAY-TO-DAY RESPONSIBILITIES:
-
-A. Do your daily workflow- these are tickets/to-dos assigned to you and Admin Role accounts. 
-            follow: https://github.com/toukubo/new_os/blob/master/Roles/OS/YourDailyWorkflow.md
-
-B.ALL BC ACCOUNTS:
-
-1) Ensure that the to-do list in the TO-DO section in all basecamp accounts are assigned to the responsible person and with a set
-due date.
-2) If to-dos are not assigned, you need to assign it to the Internal Director so he can assign it to the right person in the team.
-
-2) Follow-up with the responsible person for to-dos that are due. Change due date if advised to do so. For developers, require them
-to set a timeline/duration to complete the tasks.
-
-3) In the Events section of all basecamp account, check for the following:
-            -Delayed events need to be followed up to the responsible person through discuss/comment box. Change the due date or
-            close the to do, as advised.
-            -Events need to be checked if it is in the right project/bc account. If it is not, move the event to the right project/bc account.
-            
-4) For every to-do, event, calendar, and text documents you create, you need to link them to the relevant files by adding the 
-URL in the comment/discussion tab.
-
-5) Calendar Synchronization 
-            http://screencast.com/t/DNWUkkYFuAp
-            https://www.evernote.com/shard/s372/sh/82015439-baa4-4a53-aa59-020d0befa130…
-            
-            How to:
-            Go to project Calendar
-            Click on any project from the Projects list
-            Add a "New event"
-               
-               > Click on any date estimated for the start of the event
-               > Rename the event exactly the same as the to-do list
-               > Copy the URL of the to-do list and add it as an optional note.
-               > Set estimated end date for tasks that last for multiple days
-               > Email to the person that needs to be notified
-               > Click "Add this event".
-            Discuss the event
-               > Click on the newly created event and hit Discuss this event...
-               > Post the event URL as comment
-               > Save changes.
-            Note: For multiple tickets, no need to make an event for each but simply make one event and name it "Tickets" 
-            and then paste the URL of each tickets as comments. 
-
-6) Projects that are inactive for the past 15 days (all to-dos are completed, no relevant current activity), may need to be
-archived. Before archiving, post a discussion in the same project and request permission to the project creator if the project
-can be archived. Once the project creator responds, then you go to the bottom of the project, click Project Settings, then choose
-archive. (The find out who the project creator is, click the "see all updates" under Latest Project Updates section of the project).
-          
-B. INBOX of all Basecamp accounts: 
-1) Check the Files section of the Inbox for the following:
-            -newly uploaded DVs. These need to be labeled as:
-                    a."English" if the dv is English; "Japanese" if it is in Japanese
-                    b."Need to be transcribedd" or "No need to transcribe"
-                    c.if the DV is for a person on the team, Admin Assistants should contact the person by clicking "Discuss file" 
-                        and calling out the person's name in the comment box. Admin may also be required to create a Ticket and 
-                        To-Do list for the contents of the DV if these are tasks.
-            - DVs that are transcribed and posted in the Discussions section (and sometimes in the Text Documents section) 
-            need to be proofread. 
-                    a. A ticket needs to be raised in the To-Do section labeled as #Need to be Proofread. 
-                    b. Under the #Need to be Proofread, create a list of to-do of transciptions which need to be proofread and 
-                    assign to an Admin/yourself
-            - Once you proofread the transcriptions under To-Do section, #Transcription for Proofreading, you need to create a text document of the edited version in the Text Document section. 
-            - Move the proofread transcriptions in the right project (Use keywords in searching for the right project.
-            
-            - To-dos that are unassigned needs to be assigned to Interal Director first.The Internal Director will assign the 
-            to-do to the right person in the team.
-            - Request for a due date on to-dos that are assigned but no due date is set. Follow-up with the responsible person for delayed or due to-dos
-            
-            
+2. Every time you complete a task, you are required to comment "TASK CLOSE"
 
