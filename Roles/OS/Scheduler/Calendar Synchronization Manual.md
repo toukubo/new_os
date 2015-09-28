@@ -1,9 +1,9 @@
 # Calendar Synchronization Manual.md
 ## VIDEO Instructions:
-  http://screencast.com/t/DNWUkkYFuAp
+
 
 ## Complete Instructions: 
-https://www.evernote.com/shard/s372/sh/82015439-baa4-4a53-aa59-020d0befa130…
+
 
 ### How to:
 
