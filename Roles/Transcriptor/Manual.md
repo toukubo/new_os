@@ -61,6 +61,14 @@ particular to the speaker
 
 An important part of transcribing is to use a consistent format for presenting including collections of conventions and naming your transcription and audio files.  Date of Audio memo uploaded, DV's reference number, typeface should be Times New Roman, 12 point black. Use EVERNOTE to share the transcribed audio.
 
+#### 3.4.1 Formatting a special string called "needle"
+on the transcription you will find the special word, you will here about this "needle is .....".
+and for this, you have to write it like
+1. no space, no under bar, or no dash.
+2. continue all the word in one stence. 
+good example of needle for word " "manual make page" is "manualmakepage"
+and bad example is "manual make page"
+
 
 ## 4. Labeling ( tag ) Operaations on it
 //@todo DV inserted here
@@ -86,4 +94,5 @@ Transcribed Inbox here means, discussions post.
 http://quick.as/qy7xub30p
 
 the title should be named : the rough content summery + original filename to the text.
+
 
