@@ -18,6 +18,13 @@ http://cl.ly/image/0202232P0928
 4.8. back to the todo lists page, and click edit, and into optional note, paste the url of the milestone. 
 that's all!
 
+### Milestons Span -> TODO Dues Sync 
+1. see the milestone dues.
+2. and then open the relevant todos
+3. set dues of todos.
+http://cl.ly/image/2M3c1A0e451a
+the duels 
+
 
 ## exceptions list:
 - for those Todo list has tag: #Pages #Tickets, no make milestones.
