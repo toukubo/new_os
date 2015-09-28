@@ -6,7 +6,7 @@
 4. move things. 
 
 ## 3. needle search detail steps 
-http://cl.ly/image/0p3Q0t3o080M
+http://cl.ly/image/3p243T0l0q3k
 
 1. open needle search. (http://zxc.cz/needlesearch/)
 2. copy the needle string,
@@ -15,3 +15,12 @@ http://cl.ly/image/0p3Q0t3o080M
 5. find the entry that contains the needle. 
 6. comment part or somerthing of the entry, paste the ceontens.
 7. remove the original contents once moved, to avoid duplciation.
+
+### wrong cases for needle sarch 
+- if you do not use this needle page we made, try to use "search type" to "comment" other wise you will find too many search result.
+- if you do not use this needle page we made, then you should put word "needle" with your search needle word, to be "needle manualization or make pages" not only serach word "manualization or make pages", so that you can find the search result the precisely and quickly
+- make sure to delete the orgiinal file. Move not copy. duplication is evil.
+
+### tips for needle sarch 
++ in the sample's case i used "open all" chrome extention to open the search pages, on step 4 of needle earch. 
++ 
