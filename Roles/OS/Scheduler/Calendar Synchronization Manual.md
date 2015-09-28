@@ -19,10 +19,16 @@ http://cl.ly/image/0202232P0928
 that's all!
 
 ### Milestons Span -> TODO Dues Sync 
+http://cl.ly/image/2M3c1A0e451a
+
 1. see the milestone dues.
 2. and then open the relevant todos
 3. set dues of todos.
-http://cl.ly/image/2M3c1A0e451a
+
+* if due of todos not set, then you have to set. 
+* the dues of todos, are set to fit the span. the first todo should be the start date of the milestone span and if there are 5 todos in 5 days span milestone, then it would be first day, secound day,, last day of the span. in this example's case, the span is oct 28 to 07 of sep. so todo dues are 28,30th of oct. ( or maybe 28 and 30th of oct ) 
+
+
 the duels 
 
 
