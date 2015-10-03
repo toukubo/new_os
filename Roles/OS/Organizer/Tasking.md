@@ -20,7 +20,7 @@ movie: http://quick.as/3ZOnCb2Je
 7. assign all the todos to Admin Assigner
 
 ## Depending on the Conteputs like 
-1. ubuquitous capture
+1. [ubuquitous capture](https://github.com/toukubo/new_os/blob/09b991ec948a4e4f946d64b0191e6554c2f1c888/Concepts/Ubiquitous%20Capture.md)
 2. workflow 
 3. everything in it's right place principle
 4. 
