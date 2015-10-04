@@ -1,3 +1,5 @@
+## Patternize Operaetion
+
 1. get input source file
 2. decide the location path to put it back.
 3. patternize
@@ -11,4 +13,3 @@
 2. try replace with the models name to ${modelclass} ${modelobj} and attributes.
 3. check with eyes. 
 4. upload it at gist.
-
