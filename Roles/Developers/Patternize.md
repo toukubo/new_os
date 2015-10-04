@@ -12,4 +12,5 @@
 1. find the models.
 2. try replace with the models name to ${modelclass} ${modelobj} and attributes.
 3. check with eyes. 
-4. upload it at gist.
+4. upload it at gist. https://gist.github.com/
+
