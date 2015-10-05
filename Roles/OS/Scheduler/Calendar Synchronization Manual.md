@@ -11,7 +11,7 @@ http://cl.ly/image/0202232P0928
 
 ### how to create the events and todo list details 
 1. copying the title of Todo List.  ( http://cl.ly/image/0v2d3P0N441h ) 
-2. click the date in calendar. be carefule to choose the day of the todos's date. in this example it was oct 30th was todo due day. so you shkuld make about 28 - 05 ( one week ) for this todo, to create new event ( http://cl.ly/image/021Z1r2d0v07 
+2. click the date in calendar. be carefule to choose the day of the todos's date. in this example it was oct 30th was todo due day. so you shkuld make about 28 - 03 ( **5 days** ) for this todo, to create new event ( http://cl.ly/image/021Z1r2d0v07 
 3. paste the name of the todo list. just use copy and paste so that you can keep the name of todos and event name just as the same. ( http://cl.ly/image/1m1B1h0i0P0V ) 
 4. copy the url of the todo list. ( http://cl.ly/image/2c372P0J1q16/o ) 
 5. go to the comment page ( http://cl.ly/image/0y1E0g2i341F ) of the miletsone
