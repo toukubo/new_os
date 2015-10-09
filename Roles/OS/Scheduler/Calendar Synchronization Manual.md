@@ -35,5 +35,6 @@ the duels
 
 ## exceptions list:
 - for those Todo list has tag: #Pages #Tickets, no make milestones.
+- for those projects and todo lists, which has tag #NoScheduleSync.
 - for those tasks named INBOX, no need to make milestones.
 
