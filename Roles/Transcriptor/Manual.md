@@ -93,6 +93,9 @@ So basically you don’t need to transcribe to Japanese this and what you need t
 Transcribed Inbox here means, discussions post.
 http://quick.as/qy7xub30p
 
+## 6. clanup
+delete the mp3 file. once you have done all for the voice memo. there is full backup freature in basecamp, so no worries delete it. 
+
 the title should be named : the rough content summery + original filename to the text.
 
 
