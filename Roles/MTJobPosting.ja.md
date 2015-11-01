@@ -22,9 +22,11 @@ ${insert Your Tasks and Scope here}
 このお仕事は、タスク形式の今日です。長期的な作業の依頼ではありません。納品物を納品いただき検証をして、完了とします。
 ### 日数
 ${ここに日数を}
-### Steps from next
-1. please interview sheet: http://goo.gl/forms/C3aSCiX00U
-2.  we will respond you back with comment in this process.
-3.  
+### 次はなに？
+1. ご応募いただいた方にはこちらから詳細情報をご連絡しています。
+2. インタビューシートを埋めてください。ご質問があればそちらを埋める項目もありますのでそちらをご記入ください。: http://goo.gl/forms/C3aSCiX00U
+3. ご採用の場合はCW/lancers様の手順に基づき、契約・NDA同意、仮払いと進めさせていただきます。
+
 ## FAQS
-${insert faq here}
+${ここのこの作業用のFAQを登録}
+
