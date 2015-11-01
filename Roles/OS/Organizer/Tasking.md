@@ -1,4 +1,8 @@
-# Tasking Manual
+Tasking Manual
+========================================
+** before that, (日本語バージョン)[https://www.evernote.com/l/ABX-oYj3NqtLyYtVuWEwLnI0QeWTs997yS8]
+
+
 ## what is this ? 
 This opeation ,is to pick a tasks from cliet request, or other todos comments.
 ## in workflow where is this operation located ? 
