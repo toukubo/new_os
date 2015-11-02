@@ -1,5 +1,7 @@
 # this is the master workflow of our team. 
-## see the chart 
+[日本語バージョン JAPANESE EDITION](https://github.com/toukubo/new_os/blob/master/readme.ja.md)
+
+## see it with chart!
 [the chart](http://cl.ly/3M0M2Y0W2o0X0G1w120m)
 
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
