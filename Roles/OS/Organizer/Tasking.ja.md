@@ -34,6 +34,15 @@ http://quick.as/3ZOnCb2Je
 2. ワークフロー
 3. 「すべてのものがあるべき場所にあるべきである」という原則（Everything in its right place principle == ERP）
 
+## FAQs
+
+> リファレンスのリンクの作成と思うのですが、同じ　to do list の場合はどうなるのでしょうか？
+
+作らなくて平気です！
+
+> Todoの追加先はBCのですか？
+
+そうです！
 
 
 
