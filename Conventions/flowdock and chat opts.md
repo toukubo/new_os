@@ -1,4 +1,12 @@
-# Flow dock Guidelines Chat Opts Conventions 
+before you go, shorterst version !
+=================================
+MUST Rules.
+1. use subflow! do not type into main flow!
+2. keep one topic to one subflow!
+
+
+Flow dock Guidelines Chat Opts Conventions (Longer version ) 
+=================================================
 Depedencies: chat opts, flow dock. 
 
 This chatrooms is the place to have discussions. in flow dock they have chat room called Flow. try be in the right place. 
