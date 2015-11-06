@@ -1,8 +1,13 @@
 before you go, shorterst version !
 =================================
-MUST Rules.
+
+This is MUST Rules.
+
+see this how to make subflow ! : http://cl.ly/image/3R3o0H0Q3X25
+
 1. use subflow! do not type into main flow!
 2. keep one topic to one subflow!
+
 
 
 Flow dock Guidelines Chat Opts Conventions (Longer version ) 
