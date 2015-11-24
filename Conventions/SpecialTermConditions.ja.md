@@ -24,12 +24,11 @@ https://github.com/toukubo/new_os/search?utf8=✓&q=tasking
 規則
 -------------------
 
-1.　日本語の文中に英語で意図的に書かれている。 x タスキング ○ Tasking
-2.　英語の頭文字が大文字になっている。 Tasking ( not tasking ) 
-3.　スペースを使わない英語の表現がされている。 MarkingDown ( x Marking Down, marking down markingdown Markingdown )
-4.　
+1. 日本語の文中に英語で意図的に書かれている。 x タスキング ○ Tasking
+2. 英語の頭文字が大文字になっている。 Tasking ( not tasking ) 
+3. スペースを使わない英語の表現がされている。 MarkingDown ( x Marking Down, marking down markingdown Markingdown )
 
 規則の詳細に関しては記法規約のディレクトリーにある規則一覧をご覧ください。特に2番として簡略版の説明が以下
 
 1. 我々に特徴的な作業、例えば Tasking 等に関しては以下のように英語の頭文字が大文字の英語で記載されることがあります。
-2.  我々のワークフローに特徴的なロールと言われる役割に関しては、それを示唆するために意図的に英語で記述されることが多いです。AdminRole StaffCrowds 等です。
+2. 我々のワークフローに特徴的なロールと言われる役割に関しては、それを示唆するために意図的に英語で記述されることが多いです。AdminRole StaffCrowds 等です。
