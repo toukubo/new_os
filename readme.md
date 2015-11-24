@@ -16,20 +16,16 @@ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 - Crowd/cloud way. a new os of making things happen.
 
 
-## List of Roles, and Role Accounts
+## List of Teams, and Role Accounts
 
 1. Admin
 2. Transcriptionist
-3. Hiring Manager
-4. Progress Manager
-5. Technical Management Officer
-6. Frontend Developers
-7. Backend Developers
-8. Internal Directors
-9. Testers
-10. Sales
-
-
+3. Hiring
+4. Technical Management Officer(TMO)
+5. Frontend Developers
+6. Backend Developers
+7. Testers
+8. Sales
 
 
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
@@ -61,7 +57,7 @@ details are described in the Routine Projects's todo's comment part as the form 
 - Requests once set to the right projects -> Tasking -> Todos. ( no assignment 9 
 
 
-### INTERNAL DIRECTORS / OS
+### LineHead / DRI
 
 - Assigning the responsible if no responsible set. seeing the dashboard todo page. ( INTERNAL DIRECTOR )
 - if there is no one who can do a job, of capacity is not enough , or there is bottleneck, just tell it to executors and sales as a bc todo.  ( INTERNAL DIRECTOR )
@@ -76,11 +72,11 @@ details are described in the Routine Projects's todo's comment part as the form 
 - setting the Milestones ( INTERNAL DIRECTOR )
 - instructions for capturing the stock information from flow.
 
-### EXECUTION / APPLICATION
+### EXECUTION / APPLICATION / Specialists
 
-- just do it. ( NIKE  )
+- just do it. 
 
-### REVIEWS AND REPORTING
+### REVIEWS AND REPORTING Directors
 - check tasks not undone with due date is passed ( OS. covered  in bc patrol )  .
 - check if there could be any problem for all the projects in the week, and if any, make it as todos. ( INTERNAL DIRECTOR, sales , tech dirs ,all the members )
 - check for the tasks done by executers, and give feedback and acknowledgments to the responsible ( INTERNAL DIRECTOR )
