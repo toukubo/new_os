@@ -1,17 +1,8 @@
 CONTENTS
-
-1. Introduction
-         1.1 Welcome 
-
-
-2. Orientation
-         2.1 Hiring Policy for New Hires (Developers/Admin/Testers/Designers)
-                  2.1.a 10 hours entry trial tasks
-                  2.2 b Complete Assigned Task Quickly          
-                  2.3.c, Contract Agreement
- 
-3. Principles
-          3.1 Duplication is Evil 
+1. NEW OS ? 
+	2. 
+2. Principles
+     3.1 Duplication is Evil 
 
 
 4. Organization Concepts
