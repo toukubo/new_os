@@ -1,23 +1,29 @@
-CONTENTS
-1. NEW OS ? 
-	2. 
-2. Principles
-     3.1 Duplication is Evil 
+# CONTENTS
+## Essential documents you have to read when you just joined. 
+### NEW OS ? 
+	2. https://github.com/toukubo/new_os/blob/master/readme.md
+#### Principles
+1. read alld the [Contepts/ documents](https://github.com/toukubo/new_os/tree/master/OS/Concepts).
+#### the Right Place to find the documents, deliver your outputs
+1. [NamingCconvention](https://github.com/toukubo/new_os/blob/master/OS/Organizer/RightPlaces/NamingCconvention.md)
+2. [flowdock and chat opts](https://github.com/toukubo/new_os/blob/master/OS/Organizer/RightPlaces/flowdock%20and%20chat%20opts.md)
+3. 
+
+### Organization Concepts
+1. Getting things done
+2. Ticket Driven
+3. Ubiquitous Capture
+4. Inbox Zero
+5. Flow and Stock Concepts
 
 
-4. Organization Concepts
-           4.1 Getting things done
-           4.2 Ticket Driven
-           4.3 Ubiquitous Capture
-           4.4 Inbox Zero
-           4.5 Flow and Stock Concepts
+### Communication Channels
+1. Basecamp
+2. Flowdock
+            
 
 
-5. Communication Channel
-            5.1 Basecamp
-
-
-6. Basecamp Rules/Users Guide
+6. 
             6.1 Basecamp Patrol Conventions
             6.2 Basecamp Functions/Concepts
             6.3 Stock Information
@@ -30,21 +36,16 @@ CONTENTS
              7.3 Meeting/Agendas 
              7.4 How to do Basecamp Patrol procedure
             
-8. Procedure Manuals
-            8.1 Transcription Manual
-            8.2  Tester Manual
-
-
-9. Website Tools
-
-
-           9.1 Evernote
-           9.2 Google Drive
-           9.3 Github
-           9.4. Dropbox
-           9.5 TeamViewer
-           9.6 Jing
-           9.7 other - Desktop Sharing
-
-
 10. Workflow chain
+
+
+### Companies and Basecamp Accounts
+1. [all the companies](https://github.com/toukubo/new_os/blob/master/Companies/readme.md)
+2. [BC Accounts and each Company](https://github.com/toukubo/new_os/blob/master/Companies/Basecamp_Account_Layout.md)
+3. Your Company information
+find the company your project belongs to, in the manual.
+	
+
+
+## Tips and Deep Cuts of New OS
+@todo

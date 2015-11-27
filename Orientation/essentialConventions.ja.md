@@ -1,10 +1,8 @@
-1. https://github.com/toukubo/new_os/tree/master/new_os/workflow/readme.ja.md
+
 2. https://github.com/toukubo/new_os/tree/master/Companies/Basecamp_Account_Layout.md
 3. https://github.com/toukubo/new_os/tree/master/DuplicationIsEvil.ja.md
-4. Flow and Stock.ja.md
 5. GTD.ja.md
 6. InboxZero.ja.md
-7. OS.ja.md
 8. https://github.com/toukubo/new_os/tree/master/Conventions/Specialist Roles.ja.md
 9. Basecamp functions Tour .md
 10. Line and Staff.ja.md
