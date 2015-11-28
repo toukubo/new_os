@@ -1,8 +1,6 @@
-# CONTENTS
-## Essential documents you have to read when you just joined. ジョインした人用のエッセンシャル版目次
+# Essential documents you have to read when you just joined. ジョインした人用のエッセンシャル版目次
 here in the below, we listed the document you should read, when you join to the team which is using new os. 
 日本語の資料もあります。日本語の資料は、urlの、.mdという拡張子を、.ja.mdという形式に書き換えると表示することが出来ます。
-
 ## NEW OS ? 
 [New OS](https://github.com/toukubo/new_os)
 ## Principles 原理、原則たち
@@ -11,7 +9,6 @@ read all the [Contepts/ documents](/OS/Concepts).
 [RightPlaces](/OS/Conventions/RightPlaces)
 
 You should consider that we have admins ( called OS ) team to do the Conventions Violation Patrol, to validate all those rules. 他のメンバー、特にOSと呼ばれるメンバーがこの資料に記載されている規則に基づいて、パトロールを行い、メッセージ、タスク、プロジェクト、資料など正しく配置しなおしてくれますので、参考にして下さい。
-
 ## Workflow
 1. [Master workflow](/Workflow)
 2. [Ubiquitous Capture](/Workflow/Ubiquitous%20Capture)
