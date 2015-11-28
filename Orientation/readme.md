@@ -4,7 +4,7 @@ here in the below, we listed the document you should read, when you join to the 
 日本語の資料もあります。日本語の資料は、urlの、.mdという拡張子を、.ja.mdという形式に書き換えると表示することが出来ます。
 
 ## NEW OS ? 
-[New OS](/)
+[New OS](https://github.com/toukubo/new_os)
 ## Principles 原理、原則たち
 read all the [Contepts/ documents](/OS/Concepts).
 ## the Right Place to find the documents, deliver your outputs
