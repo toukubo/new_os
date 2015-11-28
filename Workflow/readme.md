@@ -4,40 +4,25 @@
 
 the requirement achieved here. 
 ----------------------------------------------------------------- 
-- all the Requests must be kept trackable, and MECE. Ubiqutous Capture.
-- all the BC Conventions are kept smoothly so that files found quick, no duplication, and searchable, and scheudles are clean. progress is fast, and Autonomy is there.
-- as quick as possible, The flow should run. From input from client, and answer to the client.
-- automatic and [Autonomated](https://en.wikipedia.org/wiki/Autonomy)
-- Crowd/cloud way. a new os of making things happen.
+- All the Requests,TodosList, Todo, is trackable, and MECE.
+- Map solutions to doumentation organization.
+- Concentration. Each of the oprtions just concentrate on keep Box Zero. it makes big flow. 
+- Automatic + [Autonomated](https://en.wikipedia.org/wiki/Autonomy).
+- New JIT ( just in time ) Microtasking x Crowdy/cloudy.
 
 Steps
 -----------------------------------------------------------------
+see "the chart" from left -> right -> left direction. 
 
-## Capturing Requests by SALES/DIRECTORS does in Sources
-  - Meetings with clients -> voicememos in dropvox or meeting log  text in evernote,capture into Event comment.
-  - slack or flowdock chart generates Requests. 
-  - Inbound mails to sales -> forwarding, to Evernote asap-en/asap shared book
-  - Inbound phone call -> voice memos in Dropvox.
-  - Tasks from sales  -> voice memos in Dropvox.
-
-## Transcriptionists, and Translaters does Digitalizations to INBOX
-
-They do the incoming documents digitalized and treatable.
-The text and well formatted digitalized texts are objects, are important objects that we can treat. 
-
-### Translaters
-- do translation which is assigned to Translators. after translations done, change responsible to Internal Director.
-
-### Transcriptionists
-- They make digital voice memos in the DV invox, to the text format. the contents given from client, row text, is called "Requests" in our team. 
-
-## OS / LineHead does Captures, Triage,Tasking, Organize,Workflow Objects in the Right Place
+ Sales/DRIs generates Requests in Sources. OS and LineHeads Watch and UbiquitousCaptures Requests. OS and LineHeads Triages Requets. [Transcriptionists](/Teams/Transcriptionists) Digitalize Requests *1. Translaters do tranlations. usually it is done into [Global INBOX](Global INBOX.md)
+ OS and LineHead Triages on INBOX contents. ,Tasking, Organize,Workflow Objects in the Right Place
 after this: all the basecamp Objects's all the attributes should fullfilled. 
 
 This is the core role of our workflow. we have many people. and this helps things organized. 
 
 - Transripted Requests -> Triage -> Request Moved to the right project. 
 - Requests once set to the right projects -> Tasking -> Todos. ( no assignment )
+-
 ### DRIs does Breakdowns and Assignment to the RoleAccounts.
 
 - just keep doing Assignment to RoleAccount.
@@ -45,7 +30,8 @@ This is the core role of our workflow. we have many people. and this helps thing
 
 ### LineHead
 
-- Assigning.
+- Keep AssigningNegotiations.
+- UnassignedTodos should be captured. 
 - if there is no one who can do a job, of capacity is not enough , or there is bottleneck, just tell it to executors and sales as a bc todo.  ( INTERNAL DIRECTOR )
 - if there is some tasks you can’t see who has the ability to execute the tasks, then ask tech dir or programmers/executers .( INTERNAL DIRECTOR )
 - negotiate and confirm the todo assigned to him by INTERNAL DIR is acceptable as responsible to the executor ( INTERNAL DIRECTOR )
@@ -71,6 +57,11 @@ This is the core role of our workflow. we have many people. and this helps thing
 - make progresses / result report email / formatted document in english. and assign for translators ( INTERNAL DIRECTOR )
 - Internal Directors write english texts.
 - send the reports. ( SALES )
+
+*1 
+They do the incoming documents digitalized and treatable.
+The text and well formatted digitalized texts are objects, are important objects that we can treat. 
+
 
 
 日本語バージョン！

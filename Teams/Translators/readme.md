@@ -1,0 +1,1 @@
+- do translation which is assigned to Translators. after translations done, change responsible to Internal Director
