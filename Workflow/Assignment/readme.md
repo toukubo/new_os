@@ -1,0 +1,1 @@
+Alias to [AssignmentNegotiation](/OS/Assigner/AssignmentNegotiation.md)

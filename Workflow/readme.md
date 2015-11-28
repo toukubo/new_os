@@ -14,49 +14,26 @@ Steps
 -----------------------------------------------------------------
 see "the chart" from left -> right -> left direction. 
 
- [Sales](/Teams/Sales) / [DRIs](VerticalLine/DRI) generate [Requests](Models/Requests.md) in [Sources](Models/Sources.md). [OS](/Teams/OS) and LineHeads [Watch](Watch) and [Ubiquitous Captures](Ubiquitous Capture) Requests. OS and LineHeads Triages Requets. [Transcriptionists](/Teams/Transcriptionists) Digitalize Requests *1. Translaters do tranlations. usually it is done into [Global INBOX](Global INBOX.md)
- OS and LineHead Triages on INBOX contents. ,Tasking, Organize,Workflow Objects in the Right Places.
-after this: all the basecamp Objects's all the attributes should fullfilled. 
+ [Sales](/Teams/Sales) / [DRIs](Vertical/DRI) generate [Requests](Models/Requests.md) in [Sources](Models/Sources.md). [OS](/Teams/OS) and LineHeads [Watch](Watch) and [Ubiquitous Captures](Ubiquitous Capture) Requests into [Global INBOX](Global INBOX.md), or into [Team INBOX](Team INBOX.md) or [Project INBOX](Project INBOX.md). [Transcriptionists](/Teams/Transcriptionists) Digitalize Requests(*1). [Translaters](/Teams/Translaters) do tranlations on Requests. 
 
-This is the core role of our workflow. we have many people. and this helps things organized. 
+ OS and [LineHeads](Vertical/LineHead) [Triages](Triage) and Organizes INBOX Requets and [Objects](Objects.md) to the [Right Places](/OS/Conventions/RightPlaces/). and do [Tasking](Tasking.md). and [Schedulers](/OS/Schedulers) [Sync Milestones](/OS/Scheduler/Calendar Synchronization Manual.md)
 
-- Transripted Requests -> Triage -> Request Moved to the right project. 
-- Requests once set to the right projects -> Tasking -> Todos. ( no assignment )
--
-### DRIs does Breakdowns and Assignment to the RoleAccounts.
+DRIs does [Breakdowns](Breakdown/) and [Assignments](Assignment) to the [RoleAccounts](Models/RoleAccounts.md). and DRI keep doing recursively Breakdowns for the Todos that is Brokendown. 
+LineHead  Keep AssigningNegotiations by name and Todos Due are set. and if the Due is delayed,  both [Schedulers](/OS/Schedulers) and LH keep [Poking](/OS/Schedulers/Poke.md). 
 
-- just keep doing Assignment to RoleAccount.
-- break into the smaller tasks and assign it to responsible.
+Then [Specialists](/Vertical/Specialists) and [Operators](/Vertical/Operators) Executes their Assigned Todos following dues. 
+When they have questions or things to Communicate , like when they can't find the Docuemnts and Specs and Materials, they ask ReportLine ( following Vertical Line ), and / or OS [Organizers](/OS/Organizers) for the RightPlaces of the Input materials they need. 
 
-### LineHead
+Specialists nad Operators does [TaskChaining](TaskChaining.md) to someone sels ( like designers -> developers, or editors -> designers -> editors -> writers ) using [tag base workflow](WorkflowMethods/Tag base workflow.md), and usually the DRI ,or QA, testers, get the assignemnt, review then #release, this follow the ReportLine ( of Vertical Line ).
 
-- Keep AssigningNegotiations.
-- UnassignedTodos should be captured. 
-- if there is no one who can do a job, of capacity is not enough , or there is bottleneck, just tell it to executors and sales as a bc todo.  ( INTERNAL DIRECTOR )
-- if there is some tasks you can’t see who has the ability to execute the tasks, then ask tech dir or programmers/executers .( INTERNAL DIRECTOR )
-- negotiate and confirm the todo assigned to him by INTERNAL DIR is acceptable as responsible to the executor ( INTERNAL DIRECTOR )
-- negotiate the due date for all the tasks. ( INTERNAL DIRECTOR )
-- ask for the director for setting the due date if not set ( OS. covered  in bc patrol )
-- doing “direction template” for all the projects. ( INTERNAL DIRECTOR )
-- doing BC Patrol for all the projects. ( OS )
-- when the responsible requests delay his schedule, then assign it to internal director. ( OS  / INTERNAL DIRECTOR )
-- setting the Milestones ( INTERNAL DIRECTOR )
-- instructions for capturing the stock information from flow.
-
-### EXECUTION / APPLICATION / Specialists
-
-- just do it. 
-
-### REVIEWS AND REPORTING Directors
-- check tasks not undone with due date is passed ( OS. covered  in bc patrol )  .
-- check if there could be any problem for all the projects in the week, and if any, make it as todos. ( INTERNAL DIRECTOR, sales , tech dirs ,all the members )
-- check for the tasks done by executers, and give feedback and acknowledgments to the responsible ( INTERNAL DIRECTOR )
+Then DRIs do voice memos for the reporting. it is packed with delivery. transcrioptors give the text. and they send the reports. We hope all thikngs are continuesly integarted and report is done smooth. 
 
 
-### SALES ( delivery ) 
-- make progresses / result report email / formatted document in english. and assign for translators ( INTERNAL DIRECTOR )
-- Internal Directors write english texts.
-- send the reports. ( SALES )
+### the Patrol and daily opreations. 
+We do Patrol. and this is OS works. we do box checks for all the unassignesd Todos, inbox triage checkes, delayed todos, unsynched contents, thigns in wrong place, things violateing the conventions. it increase the productiviy super faster.  if you know the conventions set, then your productivy of the team increase nearly 200-700% at max by this OS support. ( or if you do random work without this new_os, your work productivy goes down to 20%, but this is genral remote workers produtivity. ) 
+
+- OS Head needs to “direction template”  and resource managrement. for all the projects. ( INTERNAL DIRECTOR )
+
 
 *1 
 They do the incoming documents digitalized and treatable.

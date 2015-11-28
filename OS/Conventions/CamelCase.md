@@ -7,6 +7,9 @@
 以下の表記になります。
 - キャメル、頭文字と英語の…スペースを排除する
 - ワード（単語）の頭文字を、（アッパーケース）大文字にする
+タスキング or tasking -> Tasking
+assignment negotaition -> AssignmentNegoation
+
 
 示唆するもの
 -----
