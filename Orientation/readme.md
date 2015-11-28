@@ -14,7 +14,7 @@ You should consider that we have admins ( called OS ) team to do the Conventions
 
 ## Workflow
 1. [Master workflow](/Workflow)
-2. [Ubiquitous Capture](/Workflow/Ubiquitous%20Capture.md)
+2. [Ubiquitous Capture](/Workflow/Ubiquitous%20Capture)
 3. [Ticket Driven](/OS/Concepts/Ticket%20Driven.md)
 4. [all the documents for Vertical Line](/Workflow/Vertical)
 5. [Report Line](/Workflow/Vertical/Report%20Line.md)
