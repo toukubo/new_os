@@ -1,0 +1,1 @@
+Alias: [OSのAssignerのAssignment](OS/Assigner/Assignment.ja.md)

@@ -7,21 +7,14 @@ Director
 - [DRI](./DRI)
 - [LineHead](LineHead)
 
-意識的にライン長という言葉を区別していただくこともあります。
 
-
-
-
-Opeartor　( Specialists ) 
+Specialists > Operators
 -----------------------------------------------
-
-- Operator と頭文字が O の時には、特に定型業務のライン、ランタイムのワークフローを実行してくれる人を意味する
-- そのチームには、その専門家の名前が呼ばれることが多く、適切な呼び名がない場合はPaymentOperatorなどのようにOperatorをつけます。
- ( Editor, Designer, Developper, Planner, CXO, Payment ) 
+Specialists（専門家）は実行を行います。
+役割の定義としては、Operatorとほぼ同義。Lieに属して専門作業を行う。
 
 
-
-Runtime  / Buildtime
+Runtime / Buildtime
 -----
 - ほぼワークフローまたは定型業務を意味する
 - ワークフローという言葉も定型業務を意味する
