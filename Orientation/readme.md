@@ -16,6 +16,7 @@ You should consider that we have admins ( called OS ) team to do the Conventions
 4. [all the documents for Vertical Line](/Workflow/Vertical)
 5. [Report Line](/Workflow/Vertical/Report%20Line.md)
 6. [Teams](/Teams) : find your teams your belongs to. and also know that what is other team and team members exists, to know what is out of scope of your work.ご自身が参加するチームのディレクトリ見つけて中身をご確認下さい。また、他にどのようなチームが存在し、作業を行い、他のチームに属する業務は、ご自身の業務対象外である事を確認して下さい。
+
 ### Communication
 Basecamp ( as workflow repository ) and [Flowdock and chat opts](/OS/Conventions/RightPlaces/flowdock%20and%20chat%20opts.md)
 
