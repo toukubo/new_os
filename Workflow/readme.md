@@ -14,8 +14,8 @@ Steps
 -----------------------------------------------------------------
 see "the chart" from left -> right -> left direction. 
 
- Sales/DRIs generates Requests in Sources. OS and LineHeads Watch and UbiquitousCaptures Requests. OS and LineHeads Triages Requets. [Transcriptionists](/Teams/Transcriptionists) Digitalize Requests *1. Translaters do tranlations. usually it is done into [Global INBOX](Global INBOX.md)
- OS and LineHead Triages on INBOX contents. ,Tasking, Organize,Workflow Objects in the Right Place
+ [Sales](/Teams/Sales)/[DRIs](VerticalLine/DRI) generates [Requests](Models/Requests.md) in [Sources](Models/Sources.md). [OS](/Teams/OS) and LineHeads Watch and UbiquitousCaptures Requests. OS and LineHeads Triages Requets. [Transcriptionists](/Teams/Transcriptionists) Digitalize Requests *1. Translaters do tranlations. usually it is done into [Global INBOX](Global INBOX.md)
+ OS and LineHead Triages on INBOX contents. ,Tasking, Organize,Workflow Objects in the Right Places.
 after this: all the basecamp Objects's all the attributes should fullfilled. 
 
 This is the core role of our workflow. we have many people. and this helps things organized. 
