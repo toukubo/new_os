@@ -5,3 +5,5 @@
 - Runtime Workflow == Line == Typical workflow = 定型業務（業務フロー）
 - we can use the word [Buildtime](Buildtime) Workflow. 
 - only when we want to tell apart Runtime/Buildtime,use those terms.for other cases, Line should be better to be used. RuntimeとBuildtime を区別するときにはこれら用語を用いて、それ以外のときにはLineを用いるのが好ましい。
+- on the intellectual workders production, Creative workders (we call them [Specialists](Specialists) are included in the line operators.
+see also: [Runtime and Buildtime](Runtime and Buildtime)
