@@ -42,4 +42,28 @@ many case we use Voice memos which contains the meetings, of directors request.
 3. directly made from basecamp web GUI or smartphones apps.
 
 4. evernote through IFTTT. recommending you to use evernote or those tasks with tagging ( like @team ) to your evernote notes to automatically add contents to basecamp. 
-5. 
+
+
+
+
+
+
+収集
+------
+UbuiqtousCapture、TicketDrivenとしてママ用いています。我々の場合はTeam Ubiqutous Captureです。
+
+GTD と忘却
+------------
+最大のメリットはタスクを一度忘れることができるということです。
+
+またそれを実行する・しないということを含めて管理下に置かれます。
+多くの人の頭の中には、雑念や今思いついてしまったことを書き留めておかねばといったことで、常に頭を悩ませる様々なストレスがあります。
+GTD は、それらを忘れる「忘却」が創造性のために非常に重要であるという脳科学的知見に基づいて作られたワークフローシステムです。
+GTD により、創造的な仕事をする人、例えばベンチャー企業も含めマーケターや新しいことを考え出す人々のために、作業に専念する時とクリエイティブなことを考えたり実行する時を分けることができます。
+
+ソフトウェア開発のコンセプト
+--------------------------
+- チケットとして実行されなくてはならないタスクは全て記録されている必要があるというコンセプトに基づく
+- これにより作業が効率化し、また優先順位等が可視化された形で実行できると言われている
+- この可視化をチケット駆動やユビキタスキャプチャーなどといった概念で表す
+
