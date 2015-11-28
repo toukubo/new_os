@@ -10,10 +10,10 @@
 以下のような使い方をします。
 
 
-- OSのレベル
-- 会社のレベル
-- メタなBuild / Kaizen Projectのレベル
-- Runtimeなプロジェクトのレベル
+- [OS](/OS)のレベル
+- [会社](/Companies)のレベル
+- [Buildtime](/Workflow/Vertical/Buildtime.md) / [Kaizen](/Workflow/Vertical/Kaizen.md) な Project レベル
+- [Runtime](/Workflow/Vertical/Runtime.md) なプロジェクトのレベル
 - to-do listのレベル
 - to-do のレベル
 
@@ -23,7 +23,7 @@
 情報のマッピング規約
 -----------------------------------------------------------------
 
-1. BC上ではtodolistと、ページの概念あるいは「機能」の粒度をマップする。
+1. ![BC上ではtodolistと、ページの概念あるいは「機能」の粒度をマップする。](how_to_find_input_and_specs_00.png)
 2. Todo ListのOptional Noteには「アウトプット」が展開されている「場所」＝URLとして記述する
 3. Todo ListのCommentにはその機能のための仕様詳細、デザイン素材等、などページ・機能単位のもの、目的などが、アップロードされ、リンクされていきます。
 仕様変更に関してもtodolistにコメントに記載されて更新されていくという形で保管されます。
