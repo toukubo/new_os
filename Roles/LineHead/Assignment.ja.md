@@ -1,1 +1,1 @@
-Alias: [OSのAssignerのAssignmentNegotiation](/OS/Assigner/AssignmentNegotiation.md.ja.md)
+Alias: [OSのAssignerのAssignmentNegotiation](/OS/Assigner/AssignmentNegotiation.ja.md)
