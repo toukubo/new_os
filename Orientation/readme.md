@@ -23,3 +23,6 @@ Basecamp ( as workflow repository ) and [Flowdock and chat opts](https://github.
 2. [BC Accounts and each Company](https://github.com/toukubo/new_os/blob/master/Companies/Basecamp_Account_Layout.md)
 3. Your Company information
 find the company your project belongs to, in the manual.
+
+### Basecamp
+[see the essentail manuals of basecamp tour](https://github.com/toukubo/new_os/blob/master/Orientation/Basecamp%20functions%20Tour%20.md)
