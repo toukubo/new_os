@@ -1,23 +1,17 @@
-# this is the master workflow of our team. 
-[日本語バージョン JAPANESE EDITION](https://github.com/toukubo/new_os/blob/master/readme.ja.md)
+# The Master Workflow.
 
-## see it with chart!
 ![the chart](http://f.cl.ly/items/20093U291b1d1H160L2d/IMG_0740.JPG)
 
-OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-OOOOOOOOOO             the Goal                    OOOOOOOOOOO
-OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
+the requirement achieved here. 
+----------------------------------------------------------------- 
 - all the Requests must be kept trackable, and MECE. Ubiqutous Capture.
 - all the BC Conventions are kept smoothly so that files found quick, no duplication, and searchable, and scheudles are clean. progress is fast, and Autonomy is there.
 - as quick as possible, The flow should run. From input from client, and answer to the client.
 - automatic and [Autonomated](https://en.wikipedia.org/wiki/Autonomy)
 - Crowd/cloud way. a new os of making things happen.
 
-
-OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-OOOOOOOOOOO            the Workflow          OOOOOOOOOOOOOOOOO
-OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Steps
+-----------------------------------------------------------------
 
 ## Capturing Requests by SALES/DIRECTORS does in Sources
   - Meetings with clients -> voicememos in dropvox or meeting log  text in evernote,capture into Event comment.
