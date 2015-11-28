@@ -2,21 +2,19 @@
 ## Essential documents you have to read when you just joined. ジョインした人用のエッセンシャル版目次
 here in the below, we listed the document you should read, when you join to the team which is using new os. 
 日本語の資料もあります。日本語の資料は、urlの、.mdという拡張子を、.ja.mdという形式に書き換えると表示することが出来ます。
-例: https://github.com/toukubo/new_os/blob/master/Workflow/Tasking.md →  https://github.com/toukubo/new_os/blob/master/Workflow/Tasking.ja.md
-
 
 ## NEW OS ? 
-https://github.com/toukubo/new_os/blob/master/readme.md
+[New OS](/)
 ## Principles 原理、原則たち
-read all the [Contepts/ documents](https://github.com/toukubo/new_os/tree/master/OS/Concepts).
+read all the [Contepts/ documents](/OS/Concepts).
 ## the Right Place to find the documents, deliver your outputs
 資料を見つけたり、報告をする先として、正しい場所をし定義しょています。
 
 https://github.com/toukubo/new_os/tree/master/OS/Conventions/RightPlaces
 You should consider that we have admins ( called OS ) team to do the Conventions Violation Patrol, to validate all those rules. 他のメンバー、特にOSと呼ばれるメンバーがこの資料に記載されている規則に基づいて、パトロールを行い、メッセージ、タスク、プロジェクト、資料など正しく配置しなおしてくれますので、参考にして下さい。
 ## Workflow
-1. [Master workflow](https://github.com/toukubo/new_os/tree/master/Workflow)
-2. [Ubiquitous Capture](https://github.com/toukubo/new_os/blob/master/Workflow/Ubiquitous%20Capture.md)
+1. [Master workflow](/Workflow)
+2. [Ubiquitous Capture](/Workflow/Ubiquitous%20Capture.md)
 3. [Ticket Driven](https://github.com/toukubo/new_os/blob/267f2188f0717fc86b01afbfe41bf88782a54445/OS/Organizer/Ticket%20Driven.md)
 4. [all the documents for Roles and Line and Staff](https://github.com/toukubo/new_os/tree/master/Roles)
 5. [Report Line](https://github.com/toukubo/new_os/blob/master/Workflow/Report%20Line.md)
