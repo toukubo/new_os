@@ -26,3 +26,17 @@ Basecamp ( as workflow repository ) and [Flowdock and chat opts](/OS/Conventions
 3. information about the Company you gonna workfow.
 
 
+Tips and Deeper side of New OS
+-----------------------------------------------------------------
+上記にリストされた資料は、New OS 利用企業に参加する際に必要な情報が記載、参加時などに学んで頂きたいエッセンシャルの内容が記載されています。
+
+OS manualには、より高速に、より効率的に作業する為の情報が含まれています。
+
+小さなティップス群と大きな原理的ルール群などがあります。
+他の役割がどのように動いているか、OSがどのように動いているのか、どのように雇用を進めているのかといった情報等、特有の方法が記載されています。
+
+### [Hinting](/OS/Organizer/Hinting.md)
+一般的なコンピューターのOSの使い方と同じように、基本的な使い方は使いながら慣れていく中で、時おりティップスの情報を仕入れる事で劇的に作業効率が上って行くという、走りながら進められる方式が可能となっています。
+OSなどから、manualのURLがhintされることになります。
+
+

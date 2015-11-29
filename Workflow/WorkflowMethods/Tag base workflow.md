@@ -9,8 +9,7 @@ Tag base workflow
 
 
 - 他に確認すること  
-                                                                                jogo_tasks.mp3 Project: プラットフォーム戦略資料 #ミニプロジェクト Added by kouji t. on Nov 4 · 674 KB                                    
-
+                                                                  
 
 - デザインはレイヤーな図が多いので、ここにくっついてるファイル使ってください。デザイン規約として。
 

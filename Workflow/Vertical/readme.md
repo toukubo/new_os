@@ -8,7 +8,7 @@
 - [LineHead](LineHead)
 ### Specialists is Operators
 [Specialists](./Specialists) means almost same as [Operators](./Operators). They belongs to the Lines, and they Execute. 
-専門家は、役割の定義としては、Operatorsとほぼ同義。Lineに属し、専門作業を行う。
+専門家は、役割の定義としては、Operators とほぼ同義。[Line](/Workflow/Vertical/Line.md) に属し、専門作業を行う。
 
 
 階層 / Hierachy

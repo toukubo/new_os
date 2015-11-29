@@ -14,3 +14,11 @@ FD's Integartion system allows BC activities appaer there. can click and make co
 use sub flow as topic flow. see this how to make subflow ! : http://cl.ly/image/3R3o0H0Q3X25
 ### do never write anything into Main flow. 
 main flow contents is not linked to almost anything. and it makes dupliations. 
+
+
+フロードッグ、その他チャットベースでは、議題を始める際に必ず最初のその議題の、そのスレッドの最初に、Basecamp上のTo-doチケットのURLとタイトルを記載するというコンベンションとなっています。
+目的：正しい場所に正しいものがある事、またユビキタスキャプチャー、チケットトリビューを維持する事です。
+現在までの調査で、チケット駆動に違反し、ランダムにチャットを始める事によって、生産性が30％程度低下する著しい傾向があ李ます。ランダムにチャットする事を強く禁じています。
+フロードックとBasecampのリンク自動化がなされている場合には、インボックスにBasecampからのTo-doが記載されています。
+出来る限りそちらのTo-doの適切なものを見つけて、チームインボックスの中のものに対してのPostをしてください。
+チケットが見つけられない場合にはチケットのURLを貼って、それに関して記載してください。チケットを見つける作業の為には、Basecampのチケットの検索と、ショートカットに関して確認してください。
