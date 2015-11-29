@@ -14,7 +14,7 @@ You should consider that we have admins ( called OS ) team to do the Conventions
 2. [Ubiquitous Capture](/Workflow/Ubiquitous%20Capture)
 3. [Ticket Driven](/OS/Concepts/Ticket%20Driven.md)
 4. [all the documents for Vertical Line](/Workflow/Vertical)
-5. [Report Line](/Workflow/Vertical/Report%20Line.md)
+5. [Report path](/Workflow/Vertical/Report%20Path.md)
 6. [Teams](/Teams) : find your teams your belongs to. and also know that what is other team and team members exists, to know what is out of scope of your work.ご自身が参加するチームのディレクトリ見つけて中身をご確認下さい。また、他にどのようなチームが存在し、作業を行い、他のチームに属する業務は、ご自身の業務対象外である事を確認して下さい。
 
 ### Communication
@@ -38,5 +38,4 @@ OS manualには、より高速に、より効率的に作業する為の情報�
 ### [Hinting](/OS/Organizer/Hinting.md)
 一般的なコンピューターのOSの使い方と同じように、基本的な使い方は使いながら慣れていく中で、時おりティップスの情報を仕入れる事で劇的に作業効率が上って行くという、走りながら進められる方式が可能となっています。
 OSなどから、manualのURLがhintされることになります。
-
 
