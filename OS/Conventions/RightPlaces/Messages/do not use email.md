@@ -1,12 +1,5 @@
 Emailの禁止原則
 =================================================================
-Emailを禁止しています。emailはp2pメッセージであるからです。
+Emailを禁止しています。[p2pメッセージであるから](Never use, the 1-on-1 messages.md)です。
 
-パーマリンクの必要性
------
-パーマリンクは必要があれば権限を付与することによって、他のメンバーに情報を渡す事が出来ます。
-
-### 情報の重複
-情報の重複は、重複ワークの原則に関してはこちらをご覧ください。  
-
-
+We prohibits to use emails. because it is basically [p2p messages](Never use, the 1-on-1 messages.md).

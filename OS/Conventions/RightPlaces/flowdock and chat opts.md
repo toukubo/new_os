@@ -17,17 +17,22 @@ tools: [flow dock manual](/Orientation/Tools/flow dock manual.md).
 ### Tools 
 BC and FD.
 Basecamp(BC) has its own commenting system, and it allows commenting Linking on tickets. and we can Make Things Happen by Linkage there. 
-
 ### Risks and Strongest facts of relatime chats. 
-However, if we use any realtime chat system, it brokes this Linkage principles. We observed the productivity decrease super lower with real time chat. Caos. we noticed that chat is one of the worst effects to remote work. it is like sugar. it feels great and easy when you start to use it, but it decreases 20-80% of producitvy in longer term. you never be able to find the things you wrote there. never. how do you find your work log when you submit your work evidence and get paid ?
+Realtime chat, destroys many rules in other modern remote  environments when you create complex things.
+#### it makes information chaos.
+We observed the productivity decrease it decreases 20-80% of producitvy in longer term with it. This was one of the worst thing we observed. Like sugar, it feels great and easy when you start to use it, but in longer term, you find yourself in the hell. you never be able to find the things you wrote there. never. how do you find your work log when you submit your work evidence and get paid ?
+and we noticed that all the conventions we have, will be not followed when we are using realtime chat.
+#### Interruption management
 Also, it does concentrations of developers creativity super low. once they are mentioned, then they lose 50% of their code progress. 
+#### Benefit ? 
+But at the same time, the major benefit of modern chat base, is realtime quickness,and it is of course, so effective when we need to get the speed. 
+alod the feeling of "online and engaged" is very good. 
 
-But at the same time, the major benefit of modern chat base, is realtime quickness, for this we lose most of our productivy. so how you combine it ? 
 
 Conventions
 -----------------------------------------------------------------
 
-So we, do Linking to the ticket.
+So we, do Linking to the ticket. General Ideas is liking tickets and basecamp. so that everything works. 
 
 the reason why we use flow dock ( not slack ) is for here.  enables us to link subflows<->tickets.
 
@@ -35,10 +40,6 @@ The Flowdock can be connected to basecamp the events and to do’s
 you will find in flow inbox section, if you need real time conversation connection then we can easily use flow dock. 
 
 so you should follow all the messaging conventions in the [Messages Conventions](/OS/Conventions/RightPlaces/Messages).
-
-
-
-
 
 
 ##### Tips about Notifications
@@ -55,11 +56,8 @@ ex. @kouji - then your message well be notify the people.
 
 
 
-
-
-
-flowdock と chat opts
-=====
+Flowdock と chat opts
+=================================================================
 
 現時点では flowdock を利用していますが、flowdock ではなくスラクトー（00：11）においても基本的に原則が当てはまる限り規則に従ってください。
 
