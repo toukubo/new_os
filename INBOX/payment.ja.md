@@ -40,10 +40,10 @@ Basecampに支払いの管理のプロジェクトテンプレートというも
 
 ##### ツールの紹介
 - Harvest
-https://www.getharvest.com/
+  - https://www.getharvest.com/
 
 - Toggl
-https://toggl.com/
+  - https://toggl.com/
 
 使ってみて使いやすいものを選んでいただければと思います。  
 そのログをスクリーンショットでもいいので、時間のログをお送りいただくことにしましょう。  
