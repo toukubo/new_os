@@ -1,0 +1,2 @@
+PURPOSE_NOT_FOUND_EXCEPTION
+目的が記載されていません。目的を必ず記載するようにしてください。

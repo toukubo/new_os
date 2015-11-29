@@ -1,0 +1,2 @@
+FLOWDOCK_USED_WITHOUT_APPOINTMENT_VIOLATION.
+アポイントメントなしに、フロードックチャットがなされています。

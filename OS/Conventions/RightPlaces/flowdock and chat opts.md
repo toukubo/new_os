@@ -1,67 +1,52 @@
-before you go, shorterst version !
-=================================
-
-This is MUST Rules.
+before you go, shortest version !
 
 see this how to make subflow ! : http://cl.ly/image/3R3o0H0Q3X25
 
-1. use subflow! do not type into main flow!
-2. keep one topic to one subflow!
+1. use subflow! do **never** type into main flow!
+2. keep one topic one subflow principle!
 
 
+Our Chat Opts 
+=================================================================
+## Depedencies
+tools: [flow dock manual](/Orientation/Tools/flow dock manual.md).
+### Principles we follow here
+1. We take [ticket managment](/OS/Concepts/Ticket Driven.md) system.
+2. [Permalink](/OS/Concepts/PermalinkDriven.md) 
+3. we [Make Things Happen by Linkage](/OS/Concepts/Make Things Happen by Linkage.md) we need to link the Comment to the ticket ( Todo ) for all.
+### Tools 
+BC and FD.
+Basecamp(BC) has its own commenting system, and it allows commenting Linking on tickets. and we can Make Things Happen by Linkage there. 
 
-Flow dock Guidelines Chat Opts Conventions (Longer version ) 
-=================================================
-Depedencies: chat opts, flow dock. 
+### Risks and Strongest facts of relatime chats. 
+However, if we use any realtime chat system, it brokes this Linkage principles. We observed the productivity decrease super lower with real time chat. Caos. we noticed that chat is one of the worst effects to remote work. it is like sugar. it feels great and easy when you start to use it, but it decreases 20-80% of producitvy in longer term. you never be able to find the things you wrote there. never. how do you find your work log when you submit your work evidence and get paid ?
+Also, it does concentrations of developers creativity super low. once they are mentioned, then they lose 50% of their code progress. 
 
-This chatrooms is the place to have discussions. in flow dock they have chat room called Flow. try be in the right place. 
-charcatoristics of flow dock compared to other realtime chat tools, are inbox style, and sub flow concepts.
+But at the same time, the major benefit of modern chat base, is realtime quickness, for this we lose most of our productivy. so how you combine it ? 
 
-## Flow dock consists of three parts:
-1. The flow sidebar, located on the left, has a list of your open flows and private conversations. The currently selected flow or private conversation is highlighted.
-2. The chat is in the middle. It contains the discussions of the selected flow or private conversation.
-3. The team inbox is on the right. It shows an activity stream from the tools and services that you’ve integrated with the selected flow. It also shows search results. The team inbox can be toggled from the Inbox button in the top right
+Conventions
+-----------------------------------------------------------------
 
-## Our Conventions 
-### Preconditions: 
-We use Basecamp for ticketmanagment + commenting, and  flowddock for real chat. .
-Basecamp has its own commenting system, and it allows comments on tickets. then we can achieve to keep linked the comments and files to the todos. so we use input ( to execute the todo ) or comments, etc, there in the todo. 
+So we, do Linking to the ticket.
 
-We use Flowdock to do realtime chat. basecamp is semi-realtime, but sdomertimes we want to do realtime. but still “linking to the ticket” so very important to our workflow systems, we don’t use slack, chat works, hip chat or skype, and chose flow dock that enables us to link chat room and basecamp todo url. 
+the reason why we use flow dock ( not slack ) is for here.  enables us to link subflows<->tickets.
 
 The Flowdock can be connected to basecamp the events and to do’s
 you will find in flow inbox section, if you need real time conversation connection then we can easily use flow dock. 
 
-The most important is we can keep the chat flow within the basecamp ticket events and to dos, these tickets will appear in flow dock inbox and from inbox items we can make conversations from there we can have real time communication.
-
-Please follow these rules:
-Please use  basecamp tickets  to connect flow dock conversation
-Do not make new sub flow without linking to basecamp ticket
+so you should follow all the messaging conventions in the [Messages Conventions](/OS/Conventions/RightPlaces/Messages).
 
 
-### 1. Notifications
-flow dock doen’t make notifications if you don’t mention. if the members you are talking to are not online and if you need him online realtime conversation, just mention. 
 
-ex. @Anne - then your message  here
 
-### 2. Try, never use, the 1-on-1 chat.
-we know that people has tendency to hestiate opened chat, but better sharing the flow to be displayed with others. and follow the principle of mapping. 
 
-### 3. use topic flow. 
-use sub flow as topic. 
 
-### 4. try use inbox items to make comments on an existing topics. 
-dependency: ticket driven, link everything, permalink all principle. 
+##### Tips about Notifications
 
-if what you are start talking about is already has the tickets in basecamp ( ticket repository ) then you should find the inbox item. 
-all the basecamp activity is integrated into the flow dock inbox. and you can click and make comments on it. so you can make comments on it. by this you can find the all the history of comments, and people can see the context ( what to do list this is belonging to, what is the specs files uploaded in basecamp etc ) and can avoid duplication ( duplication is evil ) .
+FD doen’t make notifications if you don’t mention. if the members you are talking to are not online and if you need him online realtime conversation, just mention. 
 
-Follow the thread flow on each corresponding topics - this must be strictly observed.
+ex. @kouji - then your message well be notify the people.
 
-### 5. Upload your image icon for identification. 
-it makes team members recognition 70% fast. 
-
-### 6. Do not send message without going into proper thread, this is against the procedures
 
 
 
