@@ -1,3 +1,37 @@
+Permalink Driven
+=====
+Definition
+-----
+Permalink contains most information regarding its topic.
+
+Example
+----
+- Posting the link when sharing information
+- Leaving link that contains necessary information regarding the task among others
+
+No to duplication
+-----
+### Do not rewrite
+Instead of typing the whole content, it should be avoided as much as possible and use a link.   
+Try not to write a content that somebody else has already written
+
+### Leave permalink
+Conversely, when using platform or tools that generates permalink, all the shared information are only those of appropriate ones. 
+
+### Reminders when mailing or during chat
+- Take note that all necessary information typed in mail and chat should be the latest
+- Overlapping information will occur if the latter posted already exists in the chat
+- As our team's working method is concerned, consider this as committing a fundamental breach
+
+Productivity
+-----
+- Rewriting causes abnormal inefficiency as is causes around minute worth of task to take up 30 minutes
+- If information is gathered properly, the productivity is doubled from 5 to 10 times
+
+For this, please make sure to strictly follow the permalink rule.
+It is said work speed rises 20%
+
+--------
 パーマリンクドリブン
 =====
 意味
