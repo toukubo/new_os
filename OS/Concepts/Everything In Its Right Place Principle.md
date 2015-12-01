@@ -5,8 +5,8 @@ Placing appropriate things in its appropriate place.
 (In English: Everything in its Right Places principle)
 
 ## Dependencies: 
-Google terms like [定置管理](https://www.google.co.jp/search?client=safari&rls=en&q=%E5%AE%9A%E7%BD%AE%E7%AE%A1%E7%90%86&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=u7dZVoWBMemN8QeumobwBw) and
-[かんばん方式と見える化](https://www.google.co.jp/search?client=safari&rls=en&q=%E5%AE%9A%E7%BD%AE%E7%AE%A1%E7%90%86&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=u7dZVoWBMemN8QeumobwBw#newwindow=1&q=%E5%AE%9A%E7%BD%AE%E7%AE%A1%E7%90%86+%E3%83%88%E3%83%A8%E3%82%BF)
+Google terms like [Storage control定置管理](https://www.google.co.jp/search?client=safari&rls=en&q=%E5%AE%9A%E7%BD%AE%E7%AE%A1%E7%90%86&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=u7dZVoWBMemN8QeumobwBw) and
+[JIT inventory management conversionかんばん方式と見える化](https://www.google.co.jp/search?client=safari&rls=en&q=%E5%AE%9A%E7%BD%AE%E7%AE%A1%E7%90%86&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=u7dZVoWBMemN8QeumobwBw#newwindow=1&q=%E5%AE%9A%E7%BD%AE%E7%AE%A1%E7%90%86+%E3%83%88%E3%83%A8%E3%82%BF)
 
 ## Purpose
 The time it takes to search for files and other things will abnormally be eliminated, thus eliminating stress as well.
