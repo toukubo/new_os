@@ -5,7 +5,75 @@ Its about the task management basics for busy workers which is handling the tons
 We need to capture it to Basecamp this is organization and then assigning it to people and follow in to the rules of our Basecamp management system and then prioritize which should be done first following the workflows.
 
 
+Inbox zero concept
+==============
 
+Please read the URL articles regarding inbox zero and mail triage. For those who cannot read english, articles are listed below.
+As a method of processing inbox, it is said that it is a well-known concept.
+
+Inbox Processing
+-----------
+
+Mail arrives everyday as soon as you open your mail app.
+You should have seen or known the GTD Concept, reached the GTD inbox.
+Inbox means the entrance and receiving box.
+
+### Reply and Archive
+The style of sorting incoming mails.
+- To reply to mails that need immediate response as soon as possible
+- After replying, archive. When archiving
+it is no longer visible in inbox.
+
+### ラベルを付ける (Missing Translation)
+inboxの中からきちんとした返信が必要か、きちんと考える必要があるかという何らかのアクションが必要なものについては以下になります。
+
+- 例えば to do のようなラベルを付ける
+- inbox からは削除し、アーカイブする
+
+### Inbox zero concept
+In the future process, for example, “to do” has an actual task execution process, inbox will become empty, no need to reply on the spot. Triage and prioritization will be carried out. Half the concept of inbox is not to concentrate on emptying the inbox as possible. When inbox becomes zero, its becomes a workflow for the time being.
+
+### Organizer task
+We are using the “box”.
+1. Create the word “inbox”
+2. File and task sorting starts here
+3. Somebody who will be the Organizer is the one checking this everyday
+It becomes OS organizer's task.
+
+### Inbox and box
+Concerning the “box” also has the similar rule. Refering to “Box”, not inbox.。
+- Inbox is the receiving box
+- Box is your box likened to the inbox
+
+### Example
+Will be explained using the transcripton role.
+
+#### Task
+The Transcriptor will perform the task as follows
+1. Check only the Transcription inbox
+2. Perform the task by following the content
+
+Other than that, there are people who handle such external inquiries in inbox.
+
+#### Next process
+Concerning (XXX) who performed the process (transcription), Toukubo will do the following task that will make the task from the transcription inbox not visible.
+- Moving to appropriate place
+- Edit then write the message somwhere
+- Send mail
+
+#### To next box
+Transcribed task will be put into the Transcription completed box, then another staff will work on the task finished on that box.
+That staff who will work on that task will aim to box zero it. Box zero will occur when inbox zero is not reached.
+
+### Box zero or inbox zero principle
+The principle is that basically, all operation has boxes, and those boxes must continually be zero one by one.
+
+### Principle application
+If applied to overall workflow steps, wrokflow will advance automatically.
+And that the Large inbox will entirely become a box, and everything will circulate well. In addition, the human body is similar to this.
+Finally, circulatory organs, complicated functions and the brains is like this as well. 
+
+---------------
 inboxゼロコンセプト
 ==============
 
