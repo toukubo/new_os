@@ -26,7 +26,7 @@ In our case, project is important. Time is also an important resource. Therefore
 - Project
 - Task performer
 - Time
-Is chosen as context, these 2 are organized, in otherwords, assign. This is read as organize. Eventually, the process of moving the Inbox to the Project Inbox will be read as Triage. This Triage can also be viewed as a delivery to Team and Project 
+Is chosen as context, these 2 are organized, in otherwords, assign. This is read as organize. Eventually, the process of moving the Inbox to the Project Inbox will be read as Triage. This Triage can also be viewed as a delivery to LineHead of Team and Project from OS. 
 
 -----------------
 Getting Things Doneとは何か
