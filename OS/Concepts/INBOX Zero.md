@@ -24,11 +24,11 @@ The style of sorting incoming mails.
 - After replying, archive. When archiving
 it is no longer visible in inbox.
 
-### ラベルを付ける (Missing Translation)
-inboxの中からきちんとした返信が必要か、きちんと考える必要があるかという何らかのアクションが必要なものについては以下になります。
+### Labeling (Missing Translation)
+Whether the content in the inbox needs to be replied properly, thought out properly or anything that needs action, things that concern these are listed below:
 
-- 例えば to do のようなラベルを付ける
-- inbox からは削除し、アーカイブする
+- For example, label with something like "to do"
+- Remove from inbox, then archive
 
 ### Inbox zero concept
 In the future process, for example, “to do” has an actual task execution process, inbox will become empty, no need to reply on the spot. Triage and prioritization will be carried out. Half the concept of inbox is not to concentrate on emptying the inbox as possible. When inbox becomes zero, its becomes a workflow for the time being.
