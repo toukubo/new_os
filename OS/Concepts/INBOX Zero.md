@@ -24,7 +24,7 @@ The style of sorting incoming mails.
 - After replying, archive. When archiving
 it is no longer visible in inbox.
 
-### Labeling (Missing Translation)
+### Labeling
 Whether the content in the inbox needs to be replied properly, thought out properly or anything that needs action, things that concern these are listed below:
 
 - For example, label with something like "to do"
