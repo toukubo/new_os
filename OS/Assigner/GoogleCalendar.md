@@ -5,11 +5,13 @@ From now on, along with Besecamp's todo, Google calendar will be incorporated in
 
 Project schedule that requires speed
 -----
-Everybody is fragmentarily doing their jobs/tasks by style of distribution. However, in projects that requires speed, the following occurs when planning on when to finish a project。
-1. The director gathers a group with certain skills.
+
+Everybody is fragmentarily doing their jobs/tasks by style of distribution. However, in projects that requires speed, the following occurs when planning on when to finish a project.
+
+1. The director gathers a group with certain skills
 2. The director checks everyone's status 
-  - In a certain time, people who are free during 3pm on Monday
-  - Those who are free on days after Monday and such
+  - In a certain time, people who are free during 3pm on Monday.
+  - Those who are free on days after Monday and such.
 3. After that, plan on assigning tasks to these people
 
 With these above, it would be possible to assign people and quickie finish the project efficiently.
