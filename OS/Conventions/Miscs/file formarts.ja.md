@@ -41,7 +41,7 @@ When working on Excel & Numbers and PPT with formats that do not accept permalin
 - Takes up around 3 hour worth of time and expense
 - Takes up 50% work and expense
 
-が将来に渡り、そのファイルの受け渡しのために発生するものと考えて下さい。(missing Translation)
+will continue even in the near future, such things occurs during file transfer so please consider this.
 
 ##### When use is Permitted
 If it is worth it to some extent, then the use is not strictly prohibited.
