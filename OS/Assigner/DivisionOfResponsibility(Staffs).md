@@ -19,7 +19,7 @@ If there are capable staff internally
  * Assigned from among capable internal staff 
   - Uemura-san
   
-  Photographer and other specialized roles
+Photographer and other specialized roles
 -----
 Employed by the team
 
