@@ -23,15 +23,67 @@ smaller. lower level information
 
 Should store the Objects on right place following this principle.
 
+------
 
+Flow and Stock
+=========
 
+Stock
+--------
 
+### Stock and Number of Referencing
+- Stock is information referenced many times
+- At the very least, Information referenced 5 times and above is considered stock. Normally consider information referenced 2 times and above, as stock information
+- Information that can possibly be referenced, 10, 20, 30 times, treat it as a high-level stocked information
 
+According to this number of referencing stock attribute concept, flow will change. This concept will conform to the flow.
 
+### Project Description
+Additional, in regards to information flow in basecamp:
+- Project
+- To do list
+- To do
 
+Are different, there are appropriate description for each as defined below:
+- Project description are basic information regarding the project
+- To do list information level are described in to do list comment
+- Information regarding To do is described in to do comment and optional (xxx)
 
+### Flow and Stock Classification
+It is already referenced like this:
+ 1. Number of referencing
+ 2. Information flow
+ 
+Information must be saved after being classified as flow or stock based on these point of view.
+There was a discussion that when information has been referenced many times in the comment in other words flow, in the comment multiple times, this must mainly be captured as a stock information.
 
+### Example
+Project Description of project level. 
+Meta-project level.That is to say, Company rules, public information etc. are stock information.
+These stock and flow's convention rules are also extracted in this form, gets transferred to this (xxx) hub. 
 
+Flow (Flowing information)
+-------------------
+
+### Flow Definition
+Gradual flow of exchange of information in task of chat.
+
+#### Difference
+- Often when task execution is finished, it is a disposable information so around 1 to 3 times
+- Information size is relatively small
+
+Example of flow and stock
+--------------------
+
+### Information that can be discussed and information during chat
+- Basically, information is said to have a flow attribute if it has a low number of referencing
+- Even in that if there is a large number of referencing, or long-term valid decision, it is considered as a stock information
+
+### Comment, To do and To do list
+- Treated as comparatively flow-attributed high-level information
+- Everything, basing on the principle that all things should be in their proper place, when there is such information in to do or comment, is it treated as important information, make sure to move it to its appropriate place as it is needed.
+
+--------
 
 フローとストック
 =========
