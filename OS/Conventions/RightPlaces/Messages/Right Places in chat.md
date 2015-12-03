@@ -15,6 +15,14 @@ use sub flow as topic flow. see this how to make subflow ! : http://cl.ly/image/
 ### do never write anything into Main flow. 
 main flow contents is not linked to almost anything. and it makes dupliations. 
 
+-----------
+
+In Flowdock and other chat-base, when starting a topic, URL and Title from Basecamp Todo must be included in the beginning of the thread of beginning of that topic. 
+Purpose: To maintain Ubiquitous capture, Ticket review and to have correct info in correct place. Based on the latest investigation, it violates the ticket activation, and has the remarkable tendency for productiviy to fall down about 30%. Random chat is strictly prohibited. When Flowdock and Basecamp link is automatically generated, it reflects on the inbox from Basecamp's ToDo.
+If possible, search for such appropriate ToDo, then  post in the team inbox.
+If ticket is not found, paste the ticket URL then post it. On how to do the ticket search task, please check regarding Basecamp ticket search and shortcut.
+
+----------------
 
 フロードッグ、その他チャットベースでは、議題を始める際に必ず最初のその議題の、そのスレッドの最初に、Basecamp上のTo-doチケットのURLとタイトルを記載するというコンベンションとなっています。
 目的：正しい場所に正しいものがある事、またユビキタスキャプチャー、チケットトリビューを維持する事です。
