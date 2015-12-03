@@ -1,5 +1,23 @@
 30 minutes rule
 =================================================================
+Goal
+-----------------------------------------------------------------
+To avoid productivity reduction caused by chatting.
+Between, chat-based conferencing and ticket-based enterprise, the latter is better for it produces 3 times the output, quality is better and working time is shorter.
+
+1. All chats must be set on taking the appointment
+2. All online chat conferences are limited to 30 minutes per session
+3. All conferences must be open for an hour or more. Refrain from bypassing 2 by having multiple 30-min. Conferences
+4. Meeting Agenda must be created. It is created in the list of BC To-do URLs
+
+Violation Point 
+-----------------------------------------------------------------
+Point deduction regarding each convention
+
+------------
+
+30 minutes rule
+=================================================================
 目的
 -----------------------------------------------------------------
 チャット利用による劇的な生産性劣化を避ける。
