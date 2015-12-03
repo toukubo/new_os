@@ -8,6 +8,8 @@ When you think close your messages, and it is in allowed case of p2p messages, t
 2. [loses Permalink](/OS/Concepts/PermalinkDriven.md)
 3. Information done out of [Right Place](/OS/Concepts/Everything In Its Right Place Principle.md).
 
+
+---------------
 Private chat is normally forbidden.
 
 ## Goal
@@ -26,7 +28,7 @@ Cases where direct messaging is necessary
 2. Exchange messages in that ticket
 3. Make sure to cc when mailing in BC
 
-----
+
 プライベートチャットを基本的に禁止しています。
 
 ## 目的
