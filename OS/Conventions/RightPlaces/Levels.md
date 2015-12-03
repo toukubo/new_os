@@ -1,3 +1,44 @@
+Level and Granularity
+=====
+Terminology
+-----
+Terms Level and Granularity are basically the same but shown in different point of view. Usage rule: ”High-leveled” and “great granularity”.
+
+Level Usage
+-----
+Used as per below:
+
+
+- [OS](/OS) Level
+- [Company](/Companies) Level
+- Project [Buildtime](/Workflow/Vertical/Buildtime.md) / [Kaizen](/Workflow/Vertical/Kaizen.md) Level
+- Project [Runtime](/Workflow/Vertical/Runtime.md) Level
+- To-do lis Level
+- To-do Level
+
+In this order from the top, granularity is great.
+
+Information Mapping Convention
+-----------------------------------------------------------------
+
+1. BC's to-do list, page concept or function granularity is mapped. ![Example](how_to_find_input_and_specs_00.png)
+2. Optional Note in to-do list has a [Place] where [output] is ＝Defined as URL![Example](how_to_find_input_and_specs_01.png)
+3. In To-do List's comment, functionality procedure details, design materials, page/function unit, goals, etc. are uploaded, then gets linked. Change in procedure are posted in to-do list comment, gets updated and stored.
+
+
+Task leveled items → posted in task's to-do level's comment.
+
+
+Daily Information Checking Operation
+-----------------------------------------------------------------
+1. View the assigned to-do's comment
+2. View ticket included in the parent to-do list comment and optional note's point, then understand specification related to that screen and function
+3. Furthermore, view unclear items and unknown project level information
+
+Check the [Present Condition] and compare it to specification [desired condition],  let's continue to Execute the To-do to understand the meaning of To-do, that is a shortage.
+
+----------
+
 レベルと粒度
 =====
 用語
