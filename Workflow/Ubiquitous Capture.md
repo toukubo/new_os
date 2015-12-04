@@ -16,6 +16,8 @@ Ours, is "Team GTD". so it's, "team Ubiquitous Catpure". same beneftis and very 
 
 In our organization “UBIQUITOUS CAPTURE” is one task management system simply capturing the task by creating Basecamp Todos.  which means to “capture” any task, or topics of discussions as fast as possible. 
 
+## the Movie Screenshots
+http://cl.ly/image/0x1J3Z3x3v0c
 
 ## input
 Sources.
