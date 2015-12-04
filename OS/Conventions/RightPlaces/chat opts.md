@@ -48,14 +48,151 @@ FD doen’t make notifications if you don’t mention. if the members you are ta
 
 ex. @kouji - then your message well be notify the people.
 
+--------
+
+Flowdock and chat opts
+=================================================================
+At present, flowdock is in use, but in Slacktor (00:11) not flowdock, basically rules are followed where the principle applies.
+
+Dependence concept is general idea called chat opts.
+Also, check the flowdock's basic operating procedure.
+Especially in regards to subflow, a principle that enables flow distribution inside the flow, make sure to check on that first by searching. It is written in the flowdock manual.
+
+（Video）
+http://cl.ly/image/453S1g3L0p2U
 
 
 
+3 Parts of flowdock
+-----
+### 1. Sidebar
+- Channels are listed on the left side
+- One-to-One and group chat chatrooms are listed
+- Currently highlighted flow and One-to-One chat is highlighted
+
+### 2. Mainflow
+- All user's flowchart contents are listed in the middle
+
+### 3. Subflow
+- Contents posted are in colored display in regard to that topic
+- As for other contents, there is an input box below main chat, when content is entered there, it will be displayed uncolored
+- As a general rule, make sure to use subflow
+- On the right part, subflow or team inbox is displayed, also support team inbox
+- Contents from RSS and integration chat is displayed
+
+Difference between flowdock and other chat tool
+-----
+In our case, for searching Basecamp ticket and other things.
+### Slack
+- In the case of slack, it differs from Slacktor, notice from the integration in chat can be inserted, comes by one flow
+
+### flowdock
+- In the case of flowdock, open inbox once, make that a topic then converse, because it scrolls in the mainflow, it would be possible for the natural flow
+- The concept might be a little complicated, but when used once, those impossible confusion in other chat tool can be restrained
+
+### Obligating use of subflow
+Conversely saying, it is now obligated to use subflow and team inbox integration, so must be used accordingly.  Be sure that before using it, know it well
+
+Proper use of flowdock and basecamp
+-----
+### basecamp
+- As a ticket repository, all tickets can be tracked down in basecamp
+
+### flowdock
+- Purpose is for comment and real-time chat
+- It is already a commenting system by itself, while it has a real-time chat function, genuine real-chat in chatting is impossible
+
+Posting in its proper place general rule
+-----
+Whether in flowdock and basecamp, this rule generally apply
+### Posting reminders
+Concerning tickets and comments, below are the obligatory points.
+These are very important so please strictly observe them well.
+- All place must be posted in their proper location.
+- If ticket doesn't have its proper place either
+  - Delete
+  - Move to different proper location
+
+### Reason for reminders
+- To avoid confusion when searching or using information
+- For instance, in a certain task ticket [inquiry regarding the payment] is suddenly brought up to offshore people, new thread creation for this ticket is needed
+Such differentiation is needed
+
+Flowdock and Basecamp links
+-----
+In expanding the general rule above, though it is mentioned that link to target must be applied to linking ticket, flowdock content must be linked in basecamp.
+
+- Ticket in basecamp will be made in flowdock inbox within 5 mins
+- When chatting in basecamp, as a general rule, when clicking that inbox, it is possible to chat so be it that way
+
+Task and Ticket
+-----
+As this is an important point, when interchanging tasks in flowdock, make sure to follow below points:
+ - Must perform task after capturing ticket
+ - All requests in flowdock should treated as agreements made in the tickets
+
+### When task request in flowdock occurs during conversation合
+When above rule is not observed, if even content contained in flowdock is executed as tasks, situation where tasks are not executed responsibly easily occurs.
+
+- When it does not have ticket, it is fine not to execute it
+- Or do not execute it at all
+- Make sure to execute it only when it has a ticket
+
+Ways other than chat
+-----
+Below is allowed when negotiation is first conducted in flowdock:
+- Securing subflow permalink (6:22)
+- Post it in basecamp comment as link
+- Or it could be other way around
+
+Make sure to capture ticket.
+
+One-to-One chat
+-----
+One-to-One chat is prohibited. Never use it.
+Information management becomes highly inefficient when performed otherwise
+- In cases where there is a need to use due to extremely particular purposes
+ - Make sure to alert such intent to director or managers
+
+Even if it is One-to-One chat where nobody else needs to view it, in permalink, make sure that it is in a form that can be handed over to somebody else without copying the contents.
+
+Email
+-----
+- Overall forbidden
+- Do not communicate by Email
+- The act of Email communication is evaluated very poorly, there are times when requesting additional tasks for the job gets harder
+- When rules in a certain part is violated a number of times, a situation occurs where the administrator usually discharges frequent offenders
+
+Regarding Notices
+-----
+During chat, in regards to yellow and green color and icon sides, chat conversation is displayed
+- Mention and Notice
+ - Notified by mail or pop-ups when mentioned in flowdock
+ - No notice when not mentioned in flowdock
+
+There is no way for these settings to be changed
+- Check user's online status
+- Check the manual regarding checking if user is present by mentioning when that user's online status is available
 
 
+Using Image Icon
+-----
+If possible, use image icon for identification purposes
+This will speed up user recognition by 70%
+It is said that information reading and understanding will dramatically improve by 1.7 times
+
+Topic and subflow
+-----
+- It is strictly forbidden to post inappropriate thread messages
+- If possible, only create proper threads
+- Basically, avoid changing the conversation flow with expressions like “by the way....” during sessions
+- It is all right to get out of track when the content is random or not important
+- But when trying to start discuss the conclusion as a new topic
+  - Such topic won't be entertained
+  - 別途サブフローを切ってそちらに誘導して行うようにしてください。(missing translation)
 
 
-
+------
 Flowdock と chat opts
 =================================================================
 
