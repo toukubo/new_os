@@ -1,4 +1,5 @@
 # Project Templates
+see if first : https://basecamp.com/help/2/videos/project-templates
 
 - [ ] to be revised
  
@@ -8,6 +9,8 @@ convention: if there is project template related to the task you are assigned, y
 e.g. if you are an hiring manager and assigned a Todo to hire someone, then you must create a project from Project Template of Hiring ${Role} (for ${Project}) 
 
 ## the benefit of Project Template
+https://basecamp.com/help/2/videos/project-templates
+
 1. we can follow the common and the best way of doing those typical tasks
 
 this is the best way. for the most of project templates, have the consultants, and specialist for that tasks. 
