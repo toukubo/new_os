@@ -1,3 +1,23 @@
+Camel Case Convention
+=====
+
+Convention
+-----
+The term Camel case is used for the following cases below
+
+- Eliminate the use of space
+- Capitalizing every word individually or tasking -> Tasking
+assignment negotaition -> AssignmentNegoation
+
+
+Implication
+-----
+When such expression is displayed, it could imply as:
+- There could be a particular procedure established
+- そのためマニュアルを確認する必要がある (missing translation)
+
+------------
+
 キャメルケース記法
 =====
 
