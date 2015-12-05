@@ -1,3 +1,41 @@
+\# (hashtag)
+=====
+\# Words that starts with hashtag (#) holds a specific meaning.
+
+Example
+-----
+### #noneedtosync
+
+This means that it is not included in synchronization routine task so it can be excluded.
+
+### #GUI
+In project related to development, to do and to do list included in the project
+- Implies that to-do list shows screen and special page that displays a screen
+- It means that some sort of URL and accessible page exists in regards to this
+
+### #oncriticalpath
+Things listed to this are
+- As a result of schedule taking up 1.01 second, that task is considered to have critical path
+- No matter how fast the milestone in other to-do list, the project will suffer delay as long as the todo list is not completed, implying that project with critical path has milestone
+- Implies priority
+
+In regards to critical path and critical chain, read articles in information management from sources like Wikipedia. 
+Is it said that it is a path where even if to prevent the project progress to take longer, building time cannot be shortened further. 
+Generally, executing parallel tasks at the same will save time, there will be a point where such method cannot be done.
+Also, the incorporated concept where critical path gets longer due to resource-related reasons (resource as in people or tools), it is referred to as critical chain. 
+If path is created with critical chain in mind, project schedule will progress as planned. 
+Things that will affect the critical path during project progression is marked with such tag.
+
+
+
+
+
+Others
+-----
+On other words/terms that are displayed as hashtags, they are sure to hold a meaning so brief description must be written for terms used in hashtags.
+
+-----
+
 \# （ハッシュタグ）
 =====
 \# （ハッシュタグ）から始まる文字列は特別な意味を持つファイルです。
