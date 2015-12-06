@@ -2,7 +2,7 @@ Avoid copy paste
 =================================================================
 Copy pasting textual contents is strictly forbidden
 
-There are cases when an outstanding administrator discharges anyone when this frequently occurs
+There are cases when an outstanding administrator discharges anyone when this frequently occurs.
 
 ---------
 
