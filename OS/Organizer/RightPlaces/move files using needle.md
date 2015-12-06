@@ -27,6 +27,11 @@ http://cl.ly/image/3p243T0l0q3k
 
 
 
+
+About Needling. Needling is a programming term. When used as a search word, it usually pertains to tool used in sewing. Search words usually points to the target search contents, it is implied that to make future searches for information such as voice memo easier with such string, keyword should be stored. For the instrocting side, keyword is likely refered to as needle. For example, contents  that contains “test needle” appears in the in coming transcription, or item that is the target of that comment section, the comment “this contains test needle contents” is posted, when the next transcription comes, matching function  automatically capture then contents will be inserted there. For things aside transcription, file uploaded afterwards will be needled. Store the keyword, then make the later serach easier, and make that file upload serach easier. It is said such is a series of tasks.
+
+--------------
+
 ニードリングについて。
 Needling プログラミング用語です。ニードルとは検索するときに検索文字列として使われる言葉のことで、元々は英語で針と糸の”針”という意味です。
 検索対象のコンテンツに対して検索文字列のことをほぼ指しますが、ここではボイスメモなど、ここに情報を後でこの文字列で検索しやすいようにキーワードを残しておいて保存するみたいな意味で扱われます。
