@@ -14,7 +14,7 @@ Implication
 -----
 When such expression is displayed, it could imply as:
 - There could be a particular procedure established
-- そのためマニュアルを確認する必要がある (missing translation)
+- For that the manual needs to be checked
 
 ------------
 
