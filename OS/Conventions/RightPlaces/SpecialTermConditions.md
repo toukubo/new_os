@@ -10,7 +10,7 @@ Tasking or anything related can be refered to below URL:
 https://github.com/toukubo/new_os/search?utf8=✓&q=tasking
 
 For others, for URL here, it is called GitHub, this might be hard to understand due to term technicality, or too advanced, but when you try to read the manual cover-to-cover once, there will be an advanced accomplishment after reading the introduction manual, when
-、一度ご確認いただくと、いろいろ作業、幅広がるかなと思っています。**Missing Translation**
+checked even once, tasks among other things will expand
 
 ---
 
