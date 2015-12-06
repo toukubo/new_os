@@ -189,7 +189,7 @@ Topic and subflow
 - It is all right to get out of track when the content is random or not important
 - But when trying to start discuss the conclusion as a new topic
   - Such topic won't be entertained
-  - 別途サブフローを切ってそちらに誘導して行うようにしてください。(missing translation)
+  - Please close the subflow and be guided to this flow.
 
 
 ------
