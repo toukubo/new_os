@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 以下を貼ってください。
 場所：* / Teaming Workflow / Continuous Integration / DailyReport 
 
