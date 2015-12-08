@@ -1,10 +1,10 @@
 # Tasking Manual
 ## Overview (what it is?)
-These tasks which is a document of client or executives, and the rest of directors's requests where tasks are selected as well as comments, are each established in Basecamp. 
+These tasks which is a document of client or executives, and the rest of director's requests where tasks are selected as well as comments, are each established in Basecamp. 
 ### Below is where that task matches inside the workflow
 http://cl.ly/image/3V0x3B232F1J?mode=annotations
 ## Task trigger. What timing is task executed.
-This task is the type that only executed when needed. It is refered to as “On Happen”, and does not need to be executed daily.
+This task is the type that only executed when needed. It is referred to as “On Happen”, and does not need to be executed daily.
 
 ## Input
 Document containing requests, demands and things to be done, URL that points to that.
