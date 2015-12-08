@@ -1,5 +1,5 @@
-# Tasking Manual.
-## Overview (what it is)
+# Tasking Manual
+## Overview (what it is?)
 These tasks which is a document of client or executives, and the rest of directors's requests where tasks are selected as well as comments, are each established in Basecamp. 
 ### Below is where that task matches inside the workflow
 http://cl.ly/image/3V0x3B232F1J?mode=annotations
