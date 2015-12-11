@@ -4,6 +4,8 @@ Apply this on manual things and when undertaking. This might not be the manual y
 
 https://github.com/toukubo/new_os/
 http://cl.ly/image/3K3w3U0H0l3n
+http://cl.ly/2I3K201d1i06
+
 
 Tasking or anything related can be refered to below URL:
 
@@ -20,6 +22,7 @@ checked even once, tasks among other things will expand.
 
 https://github.com/toukubo/new_os/
 http://cl.ly/image/3K3w3U0H0l3n
+http://cl.ly/2I3K201d1i06
 
 Tasking なんかは以下のURLで確認できます。
 
