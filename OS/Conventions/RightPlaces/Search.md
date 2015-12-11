@@ -1,3 +1,10 @@
+for manual :
+http://cl.ly/2I3K201d1i06
+
+
+
+
+
 Concerning search in Basecamp and Manual
 As per Double work principle and DRY principle, it is prohibited to post same information that was posted earlier. Refering to this, speed and ease is very important when searching for information to share source materials.
 It is expected that to be able to get the document, it would only take around 2-3 clicks, without knowing and without any trouble.
