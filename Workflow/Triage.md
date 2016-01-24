@@ -33,10 +33,10 @@ Step
 2. やらないことリスト( Arvhice Project など）への移動
 3. LineHead への Todoの Assignment。機械的にアサインしてください。
 
-
-
 トリアージとは、INBOXの中身を緊急優先順位づけするという意味です。
 
+##  triageするときに内容がわからない時
+ - commentに書くこと
 
 
 
