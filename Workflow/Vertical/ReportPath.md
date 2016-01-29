@@ -20,12 +20,12 @@ Todo に関して、質問をする際には、その Todo の Comment で質問
 3. Everyone Pageを確認。これはTeam x Verticalの役割ごとに編成されています。
 
 ### vertical x teamsで絞り込んだreport path / communication pathにアサインされた人を見つける方法
-#### A. everyone page
+#### A. Everyone のページを開く
  <img src="http://i.imgur.com/SNnHyPx.gif" width="500px">
  
-##### 1. Team と所属するメンバーを確認する
+##### 1. Team名をクリックすると所属するメンバーが確認できる
 
-##### 2. Team 名 + 役職文字列で役職グループを確認する
+##### 2. Team 名 + 役職文字列で役職グループから確認する
 
 - 例）Team= Hiring、役職文字列=Operators   
      Hiring Operators -> Hiring Team x Operators
