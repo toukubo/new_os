@@ -21,8 +21,8 @@ Todo に関して、質問をする際には、その Todo の Comment で質問
 
 ### vertical x teamsで絞り込んだreport path / communication pathにアサインされた人を見つける方法
 #### A. everyone page
+ <img src="http://i.imgur.com/SNnHyPx.gif" width="500px">
 1. Team と所属するメンバーを確認する
-<img src="http://i.imgur.com/SNnHyPx.gif" width="500px">
 
 2. Team 名 + 役職文字列で役職グループを確認する
 
