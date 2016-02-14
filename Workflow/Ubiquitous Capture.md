@@ -73,4 +73,4 @@ INBOX方式でのタスクのキャプチャー
 --------------------------
 Alfred を使ったユビキタスキャプチャーの方法 
 
-[![IMAGE ALT TEXT HERE](http://i.imgur.com/rbtMYn8.png)](http://zxc.cz/jing/2015-12-12_2345.swf)
+[![Alfred を使った方法](http://i.imgur.com/rbtMYn8.png)](http://zxc.cz/jing/2015-12-12_2345.swf)
