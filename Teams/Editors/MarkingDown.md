@@ -58,7 +58,7 @@ https://docs.esa.io/posts/49#13-0-0
 この文章（整形化されたこの文章）をサンプルとしてみてみてください！上記の文章は、Markdown後の文章です。
 
 
-今ご覧いただいているのは、github上での「整形されて、綺麗に表示されている文章」です。そしてこの文章はこのようにmarkdownになっています。 → [リンク先を表示](https://raw.githubusercontent.com/toukubo/new_os/master/Conventions/MarkingDown.ja.md)
+今ご覧いただいているのは、github上での「整形されて、綺麗に表示されている文章」です。そしてあなたがこれまでに読んできた、この文章は、MarkingDownされた結果です。
 
 そして元の文章は以下になります。
 
