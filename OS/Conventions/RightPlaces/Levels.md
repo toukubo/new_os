@@ -64,7 +64,7 @@ Check the [Present Condition] and compare it to specification [desired condition
 情報のマッピング規約
 -----------------------------------------------------------------
 
-1. BC上ではtodolistと、ページの概念あるいは「機能」の粒度をマップする。![例](how_to_find_input_and_specs_00.png) ![動画！](http://cl.ly/1x3R160p0R0H)
+1. BC上ではtodolistと、ページの概念あるいは「機能」の粒度をマップする。![例](how_to_find_input_and_specs_00.png) [動画で！！](http://cl.ly/1x3R160p0R0H)
 2. Todo ListのOptional Noteには「アウトプット」が展開されている「場所」＝URLとして記述する。![例](how_to_find_input_and_specs_01.png)
 3. Todo ListのCommentにはその機能のための仕様詳細、デザイン素材等、などページ・機能単位のもの、目的などが、アップロードされ、リンクされていきます。
 仕様変更に関してもtodolistにコメントに記載されて更新されていくという形で保管されます。
