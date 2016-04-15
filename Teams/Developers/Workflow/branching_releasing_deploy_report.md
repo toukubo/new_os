@@ -25,9 +25,3 @@ circle ci we use. and after PR -> Merge by Releaser, it would be built automatic
 
 
 
-## apiのビルド先
-
-+ zxc.cz:5000がgatewayを用になっているのでここで試験 
-+ 該当するAPI Interface仕様書の箇所を修正してmasterにcommit
-
-
