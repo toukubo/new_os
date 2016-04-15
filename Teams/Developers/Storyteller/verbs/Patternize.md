@@ -34,13 +34,13 @@ In web development, we recieve html file from your client or desigenrs. You need
 
 in the web development which has html front view, and if you use json as model data object, then it goes as below. 
 
-### html material you recieve from your client or designer,   
+### 1. html material you recieve from your client or designer,   
 
 ```
 <html>	<body>	hello, koji!</body></html>
 ```
 
-###  model data 
+###  2. prepare model data 
 
 ```
 {"user":
@@ -48,7 +48,7 @@ in the web development which has html front view, and if you use json as model d
 }
 ```
 
-### view == template file you make 
+### 3. make view template file
 
 ```
 <html>
@@ -60,8 +60,7 @@ in the web development which has html front view, and if you use json as model d
 ```
 
 
-
-### generated result if you render this using mustache 
+### 4. generate result,  render this using mustache 
 
 ```
 <html>	<body>	hello, koji!</body></html>
