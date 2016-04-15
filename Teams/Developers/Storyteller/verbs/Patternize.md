@@ -60,7 +60,7 @@ in the web development which has html front view, and if you use json as model d
 ```
 
 
-### 4. generate result,  render this using mustache 
+### 4. generate result,  render using mustache 
 
 ```
 <html>	<body>	hello, koji!</body></html>
@@ -76,7 +76,7 @@ Note that : With Mustache, you don't need the controller for the simplest use wi
   
 Then, get back to this our job. now the material you recieve is not html, but the "code" itself. and however, the difference between html and source as view template ? nothing! so if we recieve this file as below ? you want to render this file. 
 
-### Material you recieve as view file.   
+### 1. Material you recieve as view file.   
 
 ```
 class V1::UsersController < V1::BaseController
@@ -98,7 +98,7 @@ end
 ```
 
 
-### model data (model.json)
+### 2. prepare model data (model.json) . 
 
 ```
 {
@@ -123,20 +123,24 @@ end
 }
 ```
   
-yeah, our case the data is “models” itself. this is confusing maybe we call our model classes “noun”.
-
-that’s it, and with mustache we can generate the code. if you are using mustache comamnd line, just this 
+0ur case the data is “models” itself. this is a little confusing, meta programming’s meta. we call our model classes “noun”.
+  
+### 3. generate codes using 
+using mustache,we can generate the code. if you are using mustache comamnd line, like this. ( you can get the command line tool with npm install mustache ) 
 ```
 mustache model.json railsController.mustache > railsController.rb
 ```
 
-then we can gerate. yey.
-But we use our templates in our framework so that we can collecrtively use them whole 
+then we can generate this. yey.
 
 
+## how this is used ? 
+----------------------------------------------------------------
+we use this templates with storyteller. there storyteller can generate the selected attributes and nouns, and parsing the model objet, etc, then taking those templates we do generations. 
 
 
-## RareCases 
+----------------------------------------------------------------
+### RareCases 
 
 In the web development, mvc, you have controller usually holds logic and loading the data. yes. we have them. you can do it. in this simple case, just a model set, and render it. 
 if you want to cahnge the name decorated displayed ( oh to hold view logic in controller is good manner, tho, we do it ) 
