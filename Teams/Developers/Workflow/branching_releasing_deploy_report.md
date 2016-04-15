@@ -22,6 +22,17 @@ for the most of the cases development_branch name is "development" and depending
 ### build and deploy 
 circle ci we use. and after PR -> Merge by Releaser, it would be built automatically and deployed in development server.
 
+### test on the dev
+
++ see your development server. and test there
+
+### change the interface specs if needed 
+usually you need to commit and push there. 
+
+### reporting
+
+1. report into ticket ( basecamp ) todo comment ( not git side but in bc ) 
+2. 
 
 
 
