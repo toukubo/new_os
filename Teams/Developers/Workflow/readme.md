@@ -1,5 +1,5 @@
-We use Basecamp for Ticket Repository.
-
+# We use Basecamp for Ticket Repository.
+we ask you to read whole texts onder this workflow folder to find the information you need to do a task.
 
 1. [how to work, and how to find the document in BCでの作業・仕様の見つけ方](./HowToWorkInBC.md	)
 2. [todoと、todolistと、projectの関係と、仕様の保持](https://github.com/toukubo/new_os/tree/master/OS/Conventions/RightPlaces/Levels.md#information-mapping-convention)
