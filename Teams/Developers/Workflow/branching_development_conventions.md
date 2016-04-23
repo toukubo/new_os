@@ -1,10 +1,13 @@
 [ common ] branch, environment,hostname conventions
 
-## basecamp7s project name is project id. 
-the name of the project, in basecamp, for the development related project, is the id string. we should keep using this as id string. sl.ht
+## basecamp project name == project id. 
+if we have "api" development project in basecamp, it is project id.
 
-## do not shorten and omit for the id and those string in this document. 
-e.g. no dev no stg but development, staging, production. no front but frontend 
+## we use auto-linking
+for documentation, we use a lot of automations and linking, so this project ids, branches, etc should be kept automatically. 
+
+### No shortening/omit.
+e.g. no "front", but "frontend" if it using this string as project name 
 
 ## repository and branching conventions 
 basecamp project.name == project id == repository.name
