@@ -1,10 +1,26 @@
-##Prior Steps for Job Posting
-
-#####*Initial Steps to be followed before Requesting a JOB DESCRIPTION to the person Authorized to Access client account*
+###Proir Steps For Job posting
+----------------------
 
 The information you include in your job postings speaks volumes about your company, your recruiting practices and your professionalism. 
 The bottom line is – job postings are advertisements for your company; represent yourself well.
+When creating job postings, then, it is critical for you to choose your words with care.
 
-So there are some **Pre-Approved** steps need to followed before posting a job
--------
-Every JOB Description forwarded to Post ONLINE should be re-created and must not have any content similar to prior JOB postings.
+**Here are some Pre-Approved Steps to be followed before Requesting a Job Description to the person authorized to Access Client account**
+
+--------------
+**1.** Every Job Description forwarded to Post ONLINE should be re-created and must not have any content similar to prior JOB postings.
+
+**2.** JOB posting request can be Forward to Hiring LineHead AtiQ or Sr.HO Muhammad Afzaal and they'll facilitate the remainder.
+
+**3.** Once the Candidates have been brought On the Platform, Try your best negotiation to covince them preferring
+       Other available Payment methods such as
+
+**i)** Payoneer
+
+**ii)** Wire transfer
+
+**iii)**PayPal
+
+**iv)** Credit card to Card transfer
+
+
