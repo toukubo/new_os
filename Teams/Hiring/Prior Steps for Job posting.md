@@ -8,7 +8,8 @@ When creating job postings, then, it is critical for you to choose your words wi
 **Here are some Pre-Approved Steps to be followed before Requesting a Job Description to the person authorized to Access Client account**
 
 --------------
-**1.** Every Job Description forwarded to Post ONLINE should be re-created and must not have any content similar to prior JOB postings.
+**1.** Every Job Description forwarded to Post ONLINE should be re-created and 
+       must not have any content similar to prior JOB postings.
 
 **2.** JOB posting request can be Forward to Hiring LineHead AtiQ or Sr.HO Muhammad Afzaal and they'll facilitate the remainder.
 
