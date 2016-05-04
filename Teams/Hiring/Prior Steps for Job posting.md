@@ -2,6 +2,7 @@
 ----------------------
 
 The information you include in your job postings speaks volumes about your company, your recruiting practices and your professionalism. 
+
 The bottom line is – job postings are advertisements for your company; represent yourself well.
 When creating job postings, then, it is critical for you to choose your words with care.
 
