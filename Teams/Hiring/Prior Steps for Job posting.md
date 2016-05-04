@@ -10,9 +10,9 @@ When creating job postings, then, it is critical for you to choose your words wi
 --------------
 **1.** Every Job Description forwarded to Post ONLINE should be re-created and must not have any content similar to prior JOB postings.
 
-**2.** JOB posting request can be Forward to Hiring LineHead AtiQ or Sr.HO Muhammad Afzaal and they'll facilitate the remainder.
+**2.** JOB posting request can be forward to Hiring LineHead AtiQ or Sr.HO Muhammad Afzaal and they'll facilitate the remainder.
 
-**3.** Once the Candidates have been brought On the Platform, Try your best negotiation to covince them preferring Other available Payment methods such as
+**3.** Once the Candidates have been brought On the Platform, Try your best negotiation to convince them preferring Other available Payment methods such as
 
 **i)** Payoneer
 
