@@ -25,7 +25,7 @@ When creating job postings, then, it is critical for you to choose your words wi
 
 rather than **UpWork** or **Freelancer.com**
 
-We expect the Ratio to be 1 out of 9 to Consider
+We expect the Ratio to be **1 out of 9** to Consider.
 
 ------------
 *The job postings you make need to make a big impact with the right people.
