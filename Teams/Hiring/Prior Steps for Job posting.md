@@ -22,6 +22,9 @@ When creating job postings, then, it is critical for you to choose your words wi
 
 **iv)** Credit card to Card transfer
 
+rather than UpWORK or Freelancer.com
+We expect the Ratio to be 1 out of 9 to Consider
+
 ------------
 *The job postings you make need to make a big impact with the right people.
 Choose your wording right and you will attract the right potential employees and fewer of those applications that 
