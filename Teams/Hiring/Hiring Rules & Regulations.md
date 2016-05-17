@@ -1,4 +1,4 @@
-#**Hiring Rules and Regulations for Global Team**
+#**Hiring Rules and Regulations for Global Team (Role-base)**
 ----------------------------------
 
 According to the Payment Managment Team it is necessary that every task performed by any role must have specific time limit
