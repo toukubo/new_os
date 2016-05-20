@@ -1,3 +1,6 @@
+this document is excplaiing about the workfows of the developments. slightly different as per the your role ( like frontend/angular/ios/andorid/rails/java/backend etc ) so find the right document.
+
+
 こちらの資料は、作業手順や、タスクをアサインされた後に、実行に必要な情報、相談先を見つけるための手順（ルールなど）を記載していますので、お読みください。
 
 1. [how to work, and how to find the document in BCでの作業から、関連仕様や作業の目的などの見つけ方](./HowToWorkInBC.md	)
