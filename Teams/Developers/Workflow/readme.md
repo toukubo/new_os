@@ -1,5 +1,3 @@
-# We use Basecamp for Ticket Repository.
-we ask you to read whole texts onder this workflow folder to find the information you need to do a task.
 こちらの資料は、作業手順や、タスクをアサインされた後に、実行に必要な情報、相談先を見つけるための手順（ルールなど）を記載していますので、お読みください。
 
 1. [how to work, and how to find the document in BCでの作業から、関連仕様や作業の目的などの見つけ方](./HowToWorkInBC.md	)
