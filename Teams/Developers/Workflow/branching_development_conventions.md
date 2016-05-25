@@ -13,15 +13,15 @@ e.g. no "front", but "frontend" if it using this string as project name
 basecamp project.name == project id == repository.name
 
 ## the host names is reversed format of branch and repository name.
-e.g. api repository's development  branch contents are automatically mapped and deployed to http://development.api.sl.ht using CI. you can expected those all of staging.sensorLogSteaming to staging.shop or those. 
+e.g. api repository's development  branch contents are automatically mapped and deployed to http://development.api.{{basehost}} using CI. you can expected those all of staging.sensorLogSteaming to staging.shop or those. 
 
 ## environment string == branches. 
 development,staging,production. they are the ids to show the environment. and they are also, the branches.
 
 ## usually, frontend, client, and backend should point the right thing and connected
 
-so the iOS constants of the web view baseurl, of development branch,  should point at http://development.sl.ht. and the api baseurl should be http://development.a.sl.ht, if this needs shop or auth, then development.auth.a.sl.ht
+so the iOS constants of the web view baseurl, of development branch,  should point at http://development.{{basehost}}. and the api baseurl should be http://development.a.{{basehost}}, if this needs shop or auth, then development.auth.a.{{basehost}}
 
-another example, the staging branch code of gateway_firmware should use the baseurl as http://staging.a.sl.ht ( and port maybe not 80 ) 
+another example, the staging branch code of gateway_firmware should use the baseurl as http://staging.a.{{basehost}} ( and port maybe not 80 ) 
 
 
