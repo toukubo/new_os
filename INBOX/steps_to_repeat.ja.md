@@ -4,7 +4,7 @@
 
 > ブラケット･･･大カッコ。［や］のこと
 
-> http://www1.odn.ne.jp/haru/data-list/mark.html
+> 参照：http://www1.odn.ne.jp/haru/data-list/mark.html
 
 ## ステップス・トゥ・リピートとリプロデュースの違い
 
